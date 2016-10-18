@@ -1,0 +1,19 @@
+-------------
+Sublime knitr
+-------------
+
+Thanks for installing the Sublime knitr plugin!
+
+
+## --------------------------- IMPORTANT!!! --------------------------- ##
+
+Make sure you install the R-Box and LaTeXing (or LaTeXTools) packages
+before using this plugin. All are available via Package Control.
+
+Instructions for (1) getting LaTeXing and/or LaTeXTools to work and 
+(2) working with R Markdown files are in the README file, accessible:
+
+1. at the GitHub page (https://github.com/SublimeText/LaTeXTools), or
+2. by using the "Browse Packages..." command in Sublime Text.
+
+## -------------------------------------------------------------------- ##

@@ -1,0 +1,202 @@
+{
+    "linux": {
+        "cmd": [
+            "latexmk",
+            "-f",
+            "-quiet",
+            "-pdf",
+            "-synctex={synctex}",
+            "-jobname={pdfname}",
+            "-outdir={outdir}",
+            "{file}"
+        ],
+        "cmd_qb": {
+            "biber": [
+                "biber",
+                "{filebase}"
+            ],
+            "bibtex": [
+                "bibtex",
+                "{filebase}"
+            ],
+            "latexmk": [
+                "latexmk",
+                "-f",
+                "-quiet",
+                "-pdf",
+                "-synctex={synctex}",
+                "-jobname={pdfname}",
+                "-outdir={outdir}",
+                "{file}"
+            ],
+            "lualatex": [
+                "lualatex",
+                "-interaction=nonstopmode",
+                "-interaction=batchmode",
+                "-jobname={pdfname}",
+                "-synctex={synctex}",
+                "-output-directory={outdir}",
+                "{file}"
+            ],
+            "pdflatex": [
+                "pdflatex",
+                "-interaction=nonstopmode",
+                "-interaction=batchmode",
+                "-jobname={pdfname}",
+                "-synctex={synctex}",
+                "-output-directory={outdir}",
+                "{file}"
+            ],
+            "xelatex": [
+                "xelatex",
+                "-interaction=nonstopmode",
+                "-interaction=batchmode",
+                "-jobname={pdfname}",
+                "-synctex={synctex}",
+                "-output-directory={outdir}",
+                "{file}"
+            ]
+        },
+        "file_regex": "^(?:W|E|B):\\s(.*):([0-9]+)",
+        "path": "$PATH:/usr/texbin:/usr/local/bin:/opt/local/bin"
+    },
+    "osx": {
+        "cmd": [
+            "latexmk",
+            "-f",
+            "-quiet",
+            "-pdf",
+            "-synctex={synctex}",
+            "-jobname={pdfname}",
+            "-outdir={outdir}",
+            "{file}"
+        ],
+        "cmd_qb": {
+            "biber": [
+                "biber",
+                "{filebase}"
+            ],
+            "bibtex": [
+                "bibtex",
+                "{filebase}"
+            ],
+            "latexmk": [
+                "latexmk",
+                "-f",
+                "-quiet",
+                "-pdf",
+                "-synctex={synctex}",
+                "-jobname={pdfname}",
+                "-outdir={outdir}",
+                "{file}"
+            ],
+            "lualatex": [
+                "lualatex",
+                "-interaction=nonstopmode",
+                "-interaction=batchmode",
+                "-jobname={pdfname}",
+                "-synctex={synctex}",
+                "-output-directory={outdir}",
+                "{file}"
+            ],
+            "pdflatex": [
+                "pdflatex",
+                "-interaction=nonstopmode",
+                "-interaction=batchmode",
+                "-jobname={pdfname}",
+                "-synctex={synctex}",
+                "-output-directory={outdir}",
+                "{file}"
+            ],
+            "xelatex": [
+                "xelatex",
+                "-interaction=nonstopmode",
+                "-interaction=batchmode",
+                "-jobname={pdfname}",
+                "-synctex={synctex}",
+                "-output-directory={outdir}",
+                "{file}"
+            ]
+        },
+        "file_regex": "^(?:W|E|B):\\s(.*):([0-9]+)",
+        "path": "$PATH:/usr/texbin:/usr/local/bin:/opt/local/bin:/Library/TeX/texbin"
+    },
+    "selector": "text.tex.latex",
+    "target": "ltx_default_compiler",
+    "variants": [
+        {
+            "name": "Primary Quick Build",
+            "use_cmd_qb": true,
+            "use_cmd_qb_primary": true
+        },
+        {
+            "name": "Choose Quick Build",
+            "use_cmd_qb": true
+        },
+        {
+            "name": "Clean up Files",
+            "target": "ltx_clean"
+        }
+    ],
+    "windows": {
+        "cmd": [
+            "latexmk",
+            "-f",
+            "-quiet",
+            "-pdf",
+            "-synctex={synctex}",
+            "-jobname={pdfname}",
+            "-outdir={outdir}",
+            "{file}"
+        ],
+        "cmd_qb": {
+            "biber": [
+                "biber",
+                "{filebase}"
+            ],
+            "bibtex": [
+                "bibtex",
+                "{filebase}"
+            ],
+            "latexmk": [
+                "latexmk",
+                "-f",
+                "-quiet",
+                "-pdf",
+                "-synctex={synctex}",
+                "-jobname={pdfname}",
+                "-outdir={outdir}",
+                "{file}"
+            ],
+            "lualatex": [
+                "lualatex",
+                "-interaction=nonstopmode",
+                "-interaction=batchmode",
+                "-jobname={pdfname}",
+                "-synctex={synctex}",
+                "-output-directory={outdir}",
+                "{file}"
+            ],
+            "pdflatex": [
+                "pdflatex",
+                "-interaction=nonstopmode",
+                "-interaction=batchmode",
+                "-jobname={pdfname}",
+                "-synctex={synctex}",
+                "-output-directory={outdir}",
+                "{file}"
+            ],
+            "xelatex": [
+                "xelatex",
+                "-interaction=nonstopmode",
+                "-interaction=batchmode",
+                "-jobname={pdfname}",
+                "-synctex={synctex}",
+                "-output-directory={outdir}",
+                "{file}"
+            ]
+        },
+        "file_regex": "^(?:W|E|B):\\s(.*):([0-9]+)",
+        "path": "C:\\MikTeX\\miktex\\bin;$PATH"
+    }
+}

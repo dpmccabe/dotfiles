@@ -1,0 +1,14 @@
+[
+	{	
+		"caption": "knitr: Send Chunk to R",
+		"command": "knitr_send_chunk"
+	},
+	{	
+		"caption": "knitr: Move to Next Chunk",
+		"command": "knitr_next_chunk"
+	},
+	{	
+		"caption": "knitr: Move to Previous Chunk",
+		"command": "knitr_prev_chunk"
+	}
+]

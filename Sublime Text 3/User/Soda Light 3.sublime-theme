@@ -1,0 +1,23 @@
+[
+{
+    "class": "sidebar_tree",
+    "row_padding": [2, 2],
+    "indent": 15,
+    "indent_offset": -13,
+    "indent_top_level": false
+},
+{
+  "class": "disclosure_button_control",
+  "settings": ["hide_disclosure_buttons"],
+  "content_margin": [0,0] // original value is [8,8]
+},
+    {
+      "class": "icon_folder",
+      "content_margin": [8, 8]
+      },
+    // Sidebar folder open
+    {
+      "class": "icon_folder",
+      "parents": [{"class": "tree_row", "attributes": ["expanded"]}]
+      }
+]

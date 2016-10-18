@@ -1,0 +1,42 @@
+{
+	"bootstrapped": true,
+	"ignore_vcs_packages": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"Better CoffeeScript",
+		"Case Conversion",
+		"ColorPicker",
+		"DashDoc",
+		"Dracula Color Scheme",
+		"ExportHtml",
+		"GitGutter",
+		"ImprovedMacros",
+		"Inc-Dec-Value",
+		"InsertDate",
+		"JSON Reindent",
+		"knitr",
+		"LaTeXing",
+		"LineEndings",
+		"Package Control",
+		"PackageDev",
+		"PackageResourceViewer",
+		"R-Box",
+		"Ruby Hash Converter",
+		"Ruby Slim",
+		"SendTextPlus",
+		"SideBarEnhancements",
+		"Solarized Color Scheme",
+		"SublimeREPL",
+		"Syntax Highlighting for Sass",
+		"Theme - SoDaReloaded",
+		"Trimmer"
+	],
+	"repositories":
+	[
+		"https://github.com/skuroda/ImprovedMacros"
+	]
+}

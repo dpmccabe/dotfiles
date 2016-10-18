@@ -1,0 +1,1 @@
+{"platforms": ["*"], "url": "https://github.com/andrewheiss/SublimeKnitr", "version": "1.2.4", "sublime_text": "*", "dependencies": [], "description": "Plugin that adds knitr Markdown and LaTeX support in Sublime Text 2 and 3"}
