@@ -1,0 +1,4022 @@
+{
+	"folder_history":
+	[
+		"/Users/devin/Google Drive/carterlab/code",
+		"/Users/devin/Google Drive/carterlab/code/alleliccapseg",
+		"/Users/devin/Google Drive/carterlab/code/ABSOLUTEv1.4",
+		"/Users/devin/Google Drive/carterlab/code/phylogic",
+		"/Users/devin/Google Drive/School/2016-3 (Fall)/PDA (2550)/project/code",
+		"/Users/devin/Google Drive/School/2016-3 (Fall)/PDA (2550)",
+		"/Users/devin/Google Drive/carterlab/projects/neoantigens/comut/genelists",
+		"/Users/devin/Desktop/MutSigCV_1.41",
+		"/Users/devin/Google Drive/carterlab/code/absolute",
+		"/Users/devin/Documents",
+		"/Users/devin/Google Drive/carterlab/projects/acs_bias/nov_pres",
+		"/Users/devin/Google Drive/Texts/Math-Stats/Stats/R/r4ds",
+		"/Users/devin/Desktop/renextweeksjointmeeting",
+		"/Users/devin/Code/alleliccapseg",
+		"/Users/devin/Code/ABSOLUTEv1.4",
+		"/Users/devin/Code/phylogic",
+		"/Users/devin/Code/Phylogic.v1.0/library/R",
+		"/Users/devin/Code/absolute",
+		"/Users/devin/Code/Phylogic.v1.0",
+		"/Users/devin/Code/dotfiles",
+		"/Users/devin/carterlab/code/dotfiles",
+		"/Users/devin/carterlab/code/Phylogic.v1.0",
+		"/Users/devin/carterlab/code/absolute",
+		"/Users/devin/Desktop/scripts",
+		"/Users/devin/Desktop/netMHCpan-3.0",
+		"/Users/devin/carterlab/code/alleliccapseg",
+		"/Users/devin/Desktop/pb16",
+		"/Users/devin/Desktop/netMHCpan-2.8.src",
+		"/Users/devin/.oh-my-zsh",
+		"/Users/devin/Desktop/ABSOLUTEv1.4",
+		"/Users/devin/Desktop/gatk-protected/src/main/java/org/broadinstitute/hellbender",
+		"/Users/devin/Desktop/strelka_workflow-1.0.15",
+		"/Users/devin/Desktop/gatk-protected/src/main",
+		"/Users/devin/Desktop/gatk-protected",
+		"/Users/devin/Dropbox/carterlab/code/alleliccapseg",
+		"/Users/devin/Desktop/absolute",
+		"/Users/devin/Desktop/rjags",
+		"/Users/devin/Dropbox/carterlab/code/ABSOLUTE",
+		"/Users/devin/Dropbox/carterlab/code/wdl_snake_ex/snake_ex",
+		"/Users/devin/Dropbox/carterlab/projects/firecloud_workshop/Workshop_Materials",
+		"/Users/devin/Dropbox/carterlab/code/gatk-protected",
+		"/Users/devin/Library/Application Support/Sublime Text 3/Packages",
+		"/Users/devin/Dropbox/carterlab/code/wdl_snake_ex",
+		"/Users/devin/Desktop/dotkit",
+		"/Users/devin/Dropbox/carterlab/code/expands",
+		"/Users/devin/Dropbox/carterlab/containers/absolute-r",
+		"/Users/devin/Dropbox/carterlab/code/CODEX",
+		"/Users/devin/Dropbox/carterlab/docker/absolute-r",
+		"/Users/devin/Dropbox/carterlab/docker/absolute-r3.3.1",
+		"/Users/devin/Dropbox/carterlab/docker",
+		"/Applications/RStudio.app/Contents/Resources/www/rstudio",
+		"/Library/Frameworks/R.framework/Versions/3.3/Resources/library/WES.1KG.WUGSC/extdata",
+		"/Users/devin/Dropbox/Carter Lab/code/CODEX",
+		"/Users/devin/Dropbox/Carter Lab/code/wdl_snake_ex",
+		"/Users/devin/Sites/graveyard/email-templates",
+		"/Users/devin/Dropbox/Carter Lab/code/wdl4s",
+		"/Users/devin/Dropbox/Carter Lab/code/wdl_snake_ex/MakeSnake",
+		"/Users/devin/Dropbox/Carter Lab/code",
+		"/Users/devin/Dropbox/Carter Lab",
+		"/Users/devin/Documents/broad/papers/ABSOLUTEv1.2",
+		"/Users/devin/Dropbox/duel",
+		"/Users/devin/Desktop/Ex_datasets",
+		"/Users/devin/Desktop/ClsFiles",
+		"/Users/devin/Documents/broad/exercise",
+		"/Users/devin/Sites/ig",
+		"/Users/devin/Sites/sports/duel",
+		"/Users/devin/Desktop/junit4-r4.10",
+		"/Users/devin/Desktop/BayesTree",
+		"/Users/devin/Sites/dmcca.be/dpmccabe.github.io",
+		"/Users/devin/Desktop/ROCR",
+		"/Users/devin/Sites/sports/duel/lib",
+		"/Users/devin/Sites/sports/dfs",
+		"/Users/devin/Sites/mdb",
+		"/Users/devin/Sites/dmcca.be/flexkey",
+		"/Users/devin/Sites/scout/scommerce",
+		"/Users/devin/Sites/scout/partners",
+		"/Users/devin/Sites/sources/nmatrix",
+		"/Users/devin/Sites/scout/leadweb",
+		"/Users/devin/Sites/scout/customer_service_portal",
+		"/Users/devin/Sites/sports/duel/db/seeds/old_salaries",
+		"/Users/devin/Sites/sports/duel/db/seeds/old_salaries/txt",
+		"/Users/devin/Sites/scout/recipes",
+		"/Users/devin/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/bundler/gems/spree-1351a146f7d7",
+		"/Users/devin/Sites/scout/auth",
+		"/Users/devin/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/bundler/gems/active_model_serializers-5da139052c84",
+		"/Users/devin/Sites/scout/scout_api_client",
+		"/Users/devin/Sites/scout/wolf",
+		"/Users/devin/Desktop/all-templates",
+		"/Users/devin/Sites/scout/mailers",
+		"/Users/devin/Sites/scout/monolith",
+		"/Users/devin/Sites/scout/scout_sass",
+		"/Users/devin/Sites/scout/monolith/.git",
+		"/Users/devin/Sites/graveyard/swipedeals",
+		"/Users/devin/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/affirm-1.1.0",
+		"/Users/devin/Sites/sources/spree",
+		"/Users/devin/Sites/scout/customer_service_portal/.git",
+		"/Users/devin/Sites/scout/scommerce/.git",
+		"/Users/devin/Desktop/June Orders",
+		"/Users/devin/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/bundler/gems/activeadmin-dd5d6573f826",
+		"/Users/devin/Sites/rg",
+		"/Users/devin/Sites/scout/scout_admin_assets",
+		"/Users/devin/Sites/scout/leadweb/.git",
+		"/Users/devin/Sites/scout/leads",
+		"/Users/devin/Sites/affirm/affirm-icon-font",
+		"/Users/devin/Sites/affirm/affirm-icon-font/.git",
+		"/Users/devin/Sites/affirm/affirm",
+		"/Users/devin/Sites/affirm-icon-font",
+		"/Users/devin/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/sinatra-1.4.6",
+		"/Users/devin/Sites/mdb/.git",
+		"/Users/devin/Sites/ig/.git",
+		"/Users/devin/Sites/scout/scout_api_client/lib/scout_api_client/recipes",
+		"/Users/devin/Sites/gaf",
+		"/Users/devin/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/drip-ruby-0.0.1",
+		"/Users/devin/Sites/duel",
+		"/Users/devin/.pry",
+		"/Users/devin/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/bundler/gems/spree-e27f9439f9b7",
+		"/Users/devin/Library/Application Support/Sublime Text 3/Packages/Theme - Soda",
+		"/Users/devin/Library/Application Support/Sublime Text 3/Packages/User",
+		"/Users/devin/Library/Application Support/Sublime Text 3/Packages/User/SetUI/+res",
+		"/Applications/XtraFinder.app/Contents",
+		"/Users/devin/Sites/scout/scommerce/vendor",
+		"/Users/devin/Sites/scout/scommerce/tmp",
+		"/Users/devin/Sites/scout/scommerce/spec",
+		"/Users/devin/Sites/scout/scommerce/sh",
+		"/Users/devin/Sites/scout/scommerce/public",
+		"/Users/devin/Sites/scout/scommerce/log",
+		"/Users/devin/Sites/scout/scommerce/lib",
+		"/Users/devin/Sites/scout/scommerce/db"
+	],
+	"last_version": 3126,
+	"last_window_id": 1981,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 851.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"normal",
+						"normal_index"
+					],
+					[
+						"command",
+						"command_str"
+					],
+					[
+						"shell",
+						"shell_str"
+					],
+					[
+						"position",
+						"position_id"
+					],
+					[
+						"rent",
+						"rent_own"
+					],
+					[
+						"mother",
+						"mother_married"
+					],
+					[
+						"his",
+						"hispanic"
+					],
+					[
+						"child",
+						"children_in_household"
+					],
+					[
+						"ins_other",
+						"ins_other_gov"
+					],
+					[
+						"ins_",
+						"ins_lacked"
+					],
+					[
+						"ins",
+						"ins_types"
+					],
+					[
+						"above",
+						"above_gt_75k"
+					],
+					[
+						"has_",
+						"has_ins_info"
+					],
+					[
+						"mutate",
+						"mutate\t{dplyr}"
+					],
+					[
+						"logical",
+						"logical_cols"
+					],
+					[
+						"suppres",
+						"suppressWarnings\t{base}"
+					],
+					[
+						"y_be_",
+						"y_be_basement"
+					],
+					[
+						"p1jags",
+						"p1jags_mcmc"
+					],
+					[
+						"y",
+						"ylim\t{ggplot2}"
+					],
+					[
+						"brfss_",
+						"brfss_sub_com"
+					],
+					[
+						"predict",
+						"predict.glm\t{stats}"
+					],
+					[
+						"sample_",
+						"sample_taus"
+					],
+					[
+						"control_",
+						"control_deaths"
+					],
+					[
+						"fitted",
+						"fitted.values\t{stats}"
+					],
+					[
+						"ctqA",
+						"ctqA_imp"
+					],
+					[
+						"lambda",
+						"lambda1986"
+					],
+					[
+						"bush_",
+						"bush_diff"
+					],
+					[
+						"winners",
+						"winners_probs"
+					],
+					[
+						"load_",
+						"load_games_template"
+					],
+					[
+						"games",
+						"games_template"
+					],
+					[
+						"next",
+						"next_round_i"
+					],
+					[
+						"team",
+						"team_region"
+					],
+					[
+						"platelet",
+						"platelet_count"
+					],
+					[
+						"row",
+						"rownames\t{base}"
+					],
+					[
+						"seq",
+						"seq_along\t{base}"
+					],
+					[
+						"ma",
+						"max_max_prop"
+					],
+					[
+						"pos",
+						"position"
+					],
+					[
+						"max",
+						"max_props"
+					],
+					[
+						"tex",
+						"text-transform: "
+					],
+					[
+						"sample",
+						"sample_i"
+					],
+					[
+						"pred_w",
+						"pred_without"
+					],
+					[
+						"d_wo",
+						"d_wor_pos"
+					],
+					[
+						"wt",
+						"wt_prev_owned"
+					],
+					[
+						"plaer",
+						"player_games"
+					],
+					[
+						"pred",
+						"pred_with0"
+					],
+					[
+						"prev2",
+						"prev2_points"
+					],
+					[
+						"prev",
+						"prev1_points"
+					],
+					[
+						"prev1_",
+						"prev1_points"
+					],
+					[
+						"pad",
+						"padding-right: "
+					],
+					[
+						"line",
+						"lineup_set"
+					],
+					[
+						"lineup",
+						"lineup_set"
+					],
+					[
+						"player",
+						"player_games"
+					],
+					[
+						"away_",
+						"away_stats"
+					],
+					[
+						"live",
+						"live_points"
+					],
+					[
+						"game",
+						"game_data"
+					],
+					[
+						"dfs",
+						"dfs_rank_text"
+					],
+					[
+						"lineup_set",
+						"lineup_set_id"
+					],
+					[
+						"font-",
+						"font-style: "
+					],
+					[
+						"fff",
+						"fff_points"
+					],
+					[
+						"sum",
+						"sum_variance"
+					],
+					[
+						"xreg",
+						"xreg_curr"
+					],
+					[
+						"curr",
+						"curr_week"
+					],
+					[
+						"pla",
+						"player_game"
+					],
+					[
+						"proj",
+						"projected_points"
+					],
+					[
+						"mean",
+						"mean_lineup_rank"
+					],
+					[
+						"mea",
+						"mean_lineup_rank"
+					],
+					[
+						"Lineup",
+						"LineupGroup"
+					],
+					[
+						"update",
+						"update_all"
+					],
+					[
+						"n",
+						"n_lineups"
+					],
+					[
+						"pgid",
+						"pgids_a"
+					],
+					[
+						"owned",
+						"owned_reg"
+					],
+					[
+						"dcurr",
+						"dcurrfitted"
+					],
+					[
+						"aa",
+						"aa_fit"
+					],
+					[
+						"Play",
+						"PlayerGame"
+					],
+					[
+						"projec",
+						"projected_points_sd"
+					],
+					[
+						"play",
+						"player_id"
+					],
+					[
+						"the",
+						"the_team_id"
+					],
+					[
+						"the_",
+						"the_position_id"
+					],
+					[
+						"posi",
+						"position_id"
+					],
+					[
+						"ff",
+						"fff_points"
+					],
+					[
+						"sear",
+						"search_pos"
+					],
+					[
+						"border",
+						"border-left: "
+					],
+					[
+						"points",
+						"points_mean"
+					],
+					[
+						"estim",
+						"estimated_owneds"
+					],
+					[
+						"plae",
+						"player_game"
+					],
+					[
+						"cor",
+						"corr_prior"
+					],
+					[
+						"pl",
+						"player_y_id"
+					],
+					[
+						"import",
+						"import_actual"
+					],
+					[
+						"home",
+						"home_points"
+					],
+					[
+						"aw",
+						"away_points"
+					],
+					[
+						"awy",
+						"away_team_id"
+					],
+					[
+						"curre",
+						"current_group"
+					],
+					[
+						"rev",
+						"revenue"
+					],
+					[
+						"pre",
+						"previous_box_score_rank"
+					],
+					[
+						"prevoius",
+						"previous_owned_rank"
+					],
+					[
+						"lg",
+						"lg_ids"
+					],
+					[
+						"queries_",
+						"queries_pluck"
+					],
+					[
+						"OFF",
+						"offset"
+					],
+					[
+						"BA",
+						"batch_size"
+					],
+					[
+						"PlayerGame",
+						"LineupPlayerGame"
+					],
+					[
+						"sigma",
+						"sigmasq"
+					],
+					[
+						"point",
+						"points_sd"
+					],
+					[
+						"previous",
+						"previous_owned"
+					],
+					[
+						"all",
+						"all_weeks"
+					],
+					[
+						"box",
+						"box_score"
+					],
+					[
+						"po",
+						"points_sd"
+					],
+					[
+						"bor",
+						"border-top: "
+					],
+					[
+						"bac",
+						"background-color: "
+					],
+					[
+						"tea",
+						"team_name"
+					],
+					[
+						"name",
+						"name_matches"
+					],
+					[
+						"op",
+						"oponent_dst"
+					],
+					[
+						"values",
+						"values_at"
+					],
+					[
+						"numbe",
+						"number_to_currency"
+					],
+					[
+						"lineu",
+						"lineups_mine"
+					],
+					[
+						"owned_",
+						"owned_mean"
+					],
+					[
+						"act",
+						"actual_points"
+					],
+					[
+						"contest",
+						"contest_entries"
+					],
+					[
+						"eli",
+						"eligible"
+					],
+					[
+						"eligi",
+						"eligible"
+					],
+					[
+						"in_",
+						"in_group_lineups"
+					],
+					[
+						"tou",
+						"tourney_size"
+					],
+					[
+						"own",
+						"gpp_owned_"
+					],
+					[
+						"sum_",
+						"sum_variance"
+					],
+					[
+						"in",
+						"inner_m_arr"
+					],
+					[
+						"lineup_p",
+						"lineup_player_games"
+					],
+					[
+						"rer",
+						"reverse_cdf"
+					],
+					[
+						"project",
+						"projection_ids"
+					],
+					[
+						"pop",
+						"pop_weighted_ranks"
+					]
+				]
+			},
+			"build_system_choices":
+			[
+				[
+					[
+						[
+							"Packages/LaTeXing/LaTeX.sublime-build",
+							""
+						],
+						[
+							"Packages/LaTeXing/LaTeX.sublime-build",
+							"Clean up Files"
+						],
+						[
+							"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+							""
+						],
+						[
+							"Packages/User/LaTeX.sublime-build",
+							""
+						],
+						[
+							"Packages/User/LaTeX.sublime-build",
+							"Primary Quick Build"
+						],
+						[
+							"Packages/User/LaTeX.sublime-build",
+							"Choose Quick Build"
+						],
+						[
+							"Packages/User/LaTeX.sublime-build",
+							"Clean up Files"
+						]
+					],
+					[
+						"Packages/LaTeXing/LaTeX.sublime-build",
+						""
+					]
+				],
+				[
+					[
+						[
+							"Packages/LaTeXing/LaTeX.sublime-build",
+							""
+						],
+						[
+							"Packages/LaTeXing/LaTeX.sublime-build",
+							"Primary Quick Build"
+						],
+						[
+							"Packages/LaTeXing/LaTeX.sublime-build",
+							"Choose Quick Build"
+						],
+						[
+							"Packages/LaTeXing/LaTeX.sublime-build",
+							"Clean up Files"
+						],
+						[
+							"Packages/R-Box/support/R-Box.sublime-build",
+							""
+						],
+						[
+							"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+							""
+						],
+						[
+							"Packages/User/LaTeX.sublime-build",
+							""
+						],
+						[
+							"Packages/User/LaTeX.sublime-build",
+							"Primary Quick Build"
+						],
+						[
+							"Packages/User/LaTeX.sublime-build",
+							"Choose Quick Build"
+						],
+						[
+							"Packages/User/LaTeX.sublime-build",
+							"Clean up Files"
+						]
+					],
+					[
+						"Packages/LaTeXing/LaTeX.sublime-build",
+						"Primary Quick Build"
+					]
+				],
+				[
+					[
+						[
+							"Packages/LaTeXing/LaTeX.sublime-build",
+							""
+						],
+						[
+							"Packages/LaTeXing/LaTeX.sublime-build",
+							"Primary Quick Build"
+						],
+						[
+							"Packages/LaTeXing/LaTeX.sublime-build",
+							"Choose Quick Build"
+						],
+						[
+							"Packages/LaTeXing/LaTeX.sublime-build",
+							"Clean up Files"
+						],
+						[
+							"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+							""
+						],
+						[
+							"Packages/User/LaTeX.sublime-build",
+							""
+						],
+						[
+							"Packages/User/LaTeX.sublime-build",
+							"Primary Quick Build"
+						],
+						[
+							"Packages/User/LaTeX.sublime-build",
+							"Choose Quick Build"
+						],
+						[
+							"Packages/User/LaTeX.sublime-build",
+							"Clean up Files"
+						]
+					],
+					[
+						"Packages/LaTeXing/LaTeX.sublime-build",
+						""
+					]
+				],
+				[
+					[
+						[
+							"Packages/SendText+/R - Source File.sublime-build",
+							""
+						],
+						[
+							"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+							""
+						]
+					],
+					[
+						"Packages/SendText+/R - Source File.sublime-build",
+						""
+					]
+				],
+				[
+					[
+						[
+							"Packages/knitr/knitr-Markdown.sublime-build",
+							""
+						],
+						[
+							"Packages/knitr/knitr-Markdown.sublime-build",
+							"Run"
+						],
+						[
+							"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+							""
+						]
+					],
+					[
+						"Packages/knitr/knitr-Markdown.sublime-build",
+						"Run"
+					]
+				]
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 375.0,
+				"last_filter": "sor",
+				"selected_items":
+				[
+					[
+						"sor",
+						"Sort Lines"
+					],
+					[
+						"html",
+						"Export to HTML: Show Export Menu"
+					],
+					[
+						"uniq",
+						"Permute Lines: Unique"
+					],
+					[
+						"sort",
+						"Sort Lines"
+					],
+					[
+						"uni",
+						"Permute Lines: Unique"
+					],
+					[
+						"uns",
+						"Build: New Build System"
+					],
+					[
+						"s",
+						"Sort Lines"
+					],
+					[
+						"remove",
+						"Package Control: Remove Package"
+					],
+					[
+						"instal",
+						"Package Control: Install Package"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"spaces",
+						"Indentation: Convert to Spaces"
+					],
+					[
+						"build",
+						"Build With: LaTeX - Clean up Files"
+					],
+					[
+						"trai",
+						"Trimmer: Trim leading AND trailing whitespace."
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"spell",
+						"Google Spell Check"
+					],
+					[
+						"check",
+						"Highlight Mistakes: Check Current File"
+					],
+					[
+						"clean",
+						"LaTeXing: Clean Temporary Output Dictionary"
+					],
+					[
+						"repl",
+						"SublimeREPL: R"
+					],
+					[
+						"repl r",
+						"SublimeREPL: R"
+					],
+					[
+						"rein",
+						"Indentation: Reindent Lines"
+					],
+					[
+						"indent",
+						"Indentation: Reindent Lines"
+					],
+					[
+						"remo",
+						"Package Control: Remove Package"
+					],
+					[
+						"chunk",
+						"knitr: Send Chunk to R"
+					],
+					[
+						"upgrade",
+						"Package Control: Upgrade Package"
+					],
+					[
+						"send",
+						"knitr: Send Chunk to R"
+					],
+					[
+						"update",
+						"Package Control: Upgrade/Overwrite All Packages"
+					],
+					[
+						"sendtext",
+						"SendText+: Choose Program"
+					],
+					[
+						"sendte",
+						"SendText+: Choose Program"
+					],
+					[
+						"package open",
+						"PackageResourceViewer: Open Resource"
+					],
+					[
+						"space",
+						"Indentation: Convert to Spaces"
+					],
+					[
+						"shuffle",
+						"Permute Lines: Shuffle"
+					],
+					[
+						"trim",
+						"Trimmer: Trim trailing whitespace."
+					],
+					[
+						"print",
+						"Print to HTML: print as HTML via browser"
+					],
+					[
+						"rnw",
+						"Snippet: Insert knitr Rnw chunk"
+					],
+					[
+						"title",
+						"Convert Case: Title Case"
+					],
+					[
+						"resou",
+						"PackageResourceViewer: Open Resource"
+					],
+					[
+						"json",
+						"JSON Reindent: reindent file or selection"
+					],
+					[
+						"resour",
+						"PackageResourceViewer: Open Resource"
+					],
+					[
+						"resource",
+						"PackageResourceViewer: Open Resource"
+					],
+					[
+						"package",
+						"Package Control: List Packages"
+					],
+					[
+						"isntall",
+						"Package Control: Install Package"
+					],
+					[
+						"tabs",
+						"Indentation: Convert to Tabs"
+					],
+					[
+						"hash",
+						"Ruby 1.9 Hash Reverter: revert_hash_syntax"
+					],
+					[
+						"trailin",
+						"Trailing Spaces: Delete Trailing Spaces"
+					],
+					[
+						"pack",
+						"Package Control: Remove Package"
+					],
+					[
+						"ruby",
+						"Ruby 1.9 Hash Syntax"
+					],
+					[
+						"Package Control: instal",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: ",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: install",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 579.0
+			},
+			"console":
+			{
+				"height": 308.0,
+				"history":
+				[
+					"sublime.log_commands(False) ",
+					"sublime.log_commands(True) ",
+					"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/Users/devin/Desktop/acs_sif.tsv",
+				"/acs_sif.tsv",
+				"/Users/devin/Google Drive/carterlab/projects/neoantigens/comut/mafs/PB-MS-002-TM-NT-SM-B5RXY-SM-B5RY1.union_forcecalled_binders.maf",
+				"/Users/devin/Google Drive/carterlab/projects/neoantigens/comut/comut.R",
+				"/Users/devin/Google Drive/carterlab/projects/neoantigens/Samples with Survival.csv",
+				"/Users/devin/Google Drive/carterlab/code/ABSOLUTEv1.4/library/R/make_allelic_seg_obj.R",
+				"/Users/devin/Google Drive/carterlab/projects/neoantigens/comut/nanostring.tsv",
+				"/Users/devin/Google Drive/carterlab/projects/neoantigens/comut/mafs/PB-MS-001-TM-NT-SM-B5RXT-SM-B5RXW.union_forcecalled_binders.maf",
+				"/Users/devin/Google Drive/School/2016-3 (Fall)/PDA (2550)/hw/hw04/hw04.Rnw",
+				"/Users/devin/Google Drive/School/2016-3 (Fall)/PDA (2550)/hw/hw03/hw03.Rnw",
+				"/Users/devin/Google Drive/Texts/Math-Stats/Stats/R/r4ds/.gitignore",
+				"/Users/devin/Google Drive/carterlab/code/phylogic/library/R/run_Phylogic.R",
+				"/Users/devin/Google Drive/carterlab/code/phylogic/library/R/fit_full_ND_model.R",
+				"/Users/devin/Google Drive/carterlab/code/phylogic/library/R/run_Env_Phylogic.R",
+				"/Users/devin/Google Drive/carterlab/code/phylogic/library/R/2D_histogram_consrtuct_phylogeny.R",
+				"/Users/devin/Google Drive/carterlab/code/phylogic/library/R/eval_muts_by_geneset.R",
+				"/Users/devin/Desktop/renextweeksjointmeeting/PD1+'-Ipi_Cranial.tsv",
+				"/Users/devin/Desktop/renextweeksjointmeeting/PD1+'-Ipi_Extra.tsv",
+				"/Users/devin/Desktop/renextweeksjointmeeting/Ipi+PD1_Mets.tsv",
+				"/Users/devin/Desktop/renextweeksjointmeeting/Ipi_Extra.tsv",
+				"/Users/devin/Desktop/renextweeksjointmeeting/Primary_IperIII.tsv",
+				"/Users/devin/Desktop/renextweeksjointmeeting/PreCranialIperIII.tsv",
+				"/Users/devin/Desktop/renextweeksjointmeeting/PreTumorIperIII.tsv",
+				"/Users/devin/Desktop/renextweeksjointmeeting/PD1_Cranial.tsv",
+				"/Users/devin/Desktop/renextweeksjointmeeting/PreMetsIperIII.tsv",
+				"/Users/devin/Desktop/renextweeksjointmeeting/PreExtraIperIII.tsv",
+				"/Users/devin/Desktop/renextweeksjointmeeting/Ipi+PD1_Cranial.tsv",
+				"/Users/devin/Desktop/renextweeksjointmeeting/Ipi_Cranial.tsv",
+				"/Users/devin/Desktop/renextweeksjointmeeting/Ipi+'-PD1_Mets.tsv",
+				"/Users/devin/Desktop/renextweeksjointmeeting/Ipi+'-PD1_Extra.tsv",
+				"/Users/devin/Desktop/renextweeksjointmeeting/Ipi+'-PD1_Cranial.tsv",
+				"/Users/devin/Desktop/renextweeksjointmeeting/Ipi_Mets.tsv",
+				"/Users/devin/Google Drive/carterlab/code/ABSOLUTEv1.4/README",
+				"/Users/devin/Google Drive/carterlab/code/ABSOLUTEv1.4/cut_release.sh",
+				"/Users/devin/Google Drive/carterlab/code/phylogic/library/R/aggregate_Phylogic_MAFs.R",
+				"/Users/devin/Code/alleliccapseg/R/capture_model_fit.R",
+				"/Users/devin/Code/alleliccapseg/R/capseg_error_model.R",
+				"/Users/devin/Code/ABSOLUTEv1.4/library/R/absolute.R",
+				"/Users/devin/Code/ABSOLUTEv1.4/ABSOLUTE_stub.R",
+				"/Users/devin/Code/ABSOLUTEv1.4/batch_exec_ABSOLUTE.R",
+				"/Users/devin/Code/ABSOLUTEv1.4/library/DESCRIPTION",
+				"/Users/devin/.zshrc",
+				"/Users/devin/Code/phylogic/.gitignore",
+				"/Users/devin/Code/phylogic/library/R/.full_ND_Phylogic_plots.R.swp",
+				"/Users/devin/Code/phylogic/library/R/.plot_ABS_fit.R.swo",
+				"/Users/devin/Code/Phylogic.v1.0/library/R/phylogic_comut_plots.R",
+				"/Users/devin/Code/Phylogic.v1.0/library/R/summarize_Phylogic.R",
+				"/Users/devin/Code/Phylogic.v1.0/library/R/aggregate_ND_Phylogic_results.R",
+				"/Users/devin/Code/Phylogic.v1.0/library/R/eval_muts_by_geneset.R",
+				"/Users/devin/Code/dotfiles/iTerm.json",
+				"/Users/devin/carterlab/code/absolute/library/R/ABS_SCNA_extraction_functions.R",
+				"/Users/devin/carterlab/code/absolute/library/R/fit_modes_SCNA_models.R",
+				"/Users/devin/Library/Application Support/Sublime Text 3/Packages/User/Monokai Soda.tmTheme",
+				"/Users/devin/carterlab/code/absolute/library/DESCRIPTION",
+				"/Users/devin/carterlab/code/absolute/library/NAMESPACE",
+				"/Users/devin/carterlab/code/absolute/.ABSOLUTE_stub.R.swo",
+				"/Users/devin/Desktop/Monokai%20Soda.colorscheme",
+				"/Users/devin/Desktop/Monokai%20Soda.itermcolors",
+				"/Users/devin/carterlab/code/absolute/library/R/scatter_jobs.R",
+				"/Users/devin/.ssh/config",
+				"/Users/devin/carterlab/projects/apon_pres/apon_pres.tex",
+				"/Users/devin/carterlab/code/absolute/run.R",
+				"/Users/devin/carterlab/code/absolute/library/R/batch_exec_functions.R",
+				"/Users/devin/carterlab/code/absolute/library/R/CN_MAF_file_lookup.R",
+				"/Users/devin/carterlab/code/absolute/batch_exec_ABSOLUTE.R",
+				"/Users/devin/carterlab/code/absolute/ABSOLUTE_stub.R",
+				"/Users/devin/carterlab/code/absolute/library/R/mult_clust_EM.R",
+				"/Users/devin/carterlab/code/absolute/library/R/provisional_gaussian_mixture_mode_finder.R",
+				"/Users/devin/carterlab/code/absolute/library/R/.absolute.R.swo",
+				"/Users/devin/carterlab/code/absolute/library/data/Imielinski2012_genesets.RData",
+				"/Users/devin/carterlab/code/absolute/cut_release.sh",
+				"/Users/devin/carterlab/code/absolute/.gitignore",
+				"/Users/devin/Desktop/stdout.txt",
+				"/Users/devin/Desktop/ag.tsv",
+				"/Users/devin/Desktop/pairs",
+				"/Users/devin/Desktop/pairset.tsv",
+				"/Users/devin/Desktop/pair.tsv",
+				"/Users/devin/Desktop/samp.tsv",
+				"/Users/devin/Desktop/pb16/PB-MS-016-TM-NT-SM-B5S1I-SM-AYO9E.pon_annotated.pass.maf.lite.annotated.pep19.fa",
+				"/Users/devin/Desktop/pb16/PB-MS-016-TM-NT-SM-B5S1I-SM-AYO9E.pon_annotated.pass.maf.lite.annotated.pep17.fa",
+				"/Users/devin/Desktop/pb16/PB-MS-016-TM-NT-SM-B5S1I-SM-AYO9E.pon_filtered.txt.lite.annotated.pep19.fa",
+				"/Users/devin/Desktop/pb16/PB-MS-016-TM-NT-SM-B5S1I-SM-AYO9E.pon_filtered.txt.lite.annotated.pep33.fa",
+				"/Users/devin/Desktop/pb16/PB-MS-016-TM-NT-SM-B5S1I-SM-AYO9E.pon_filtered.txt.lite.annotated.pep19.fa.nmhc.in",
+				"/Users/devin/Desktop/pb16/PB-MS-016-TM-NT-SM-B5S1I-SM-AYO9E.pon_filtered.txt.lite.annotated.pep19.fa.binders.txt",
+				"/Users/devin/Desktop/pb16/PB-MS-016-TM-NT-SM-B5S1I-SM-AYO9E.pon_filtered.txt.lite.annotated.pep19.fa.nmhc.out",
+				"/Users/devin/Desktop/pb16/PB-MS-016-TM-NT-SM-B5S1I-SM-AYO9E.pon_annotated.pass.maf.lite.annotated.pep19.fa.nmhc.in",
+				"/Users/devin/Desktop/pb16/PB-MS-016-TM-NT-SM-B5S1I-SM-AYO9E.pon_annotated.pass.maf.lite.annotated.pep17.fa.nmhc.in",
+				"/Users/devin/Desktop/pb16/PB-MS-016-TM-NT-SM-B5S1I-SM-AYO9E.pon_annotated.pass.maf.lite.annotated.pep19.fa.map.txt",
+				"/Users/devin/Desktop/pb16/PB-MS-016-TM-NT-SM-B5S1I-SM-AYO9E.pon_annotated.pass.maf.lite.annotated.pep19.fa.binders.txt",
+				"/Users/devin/Desktop/pb16/PB-MS-016-TM-NT-SM-B5S1I-SM-AYO9E.pon_annotated.pass.maf.lite.annotated.pep19.fa.nmhc.out",
+				"/Users/devin/Desktop/4-binders.tsv",
+				"/Users/devin/Desktop/PB-MS-016-Tumor-SM-B5S1I_TPRA1_c.857delC.csv",
+				"/Users/devin/Desktop/pb16/PB-MS-016-TM-NT-SM-B5S1I-SM-AYO9E.pon_filtered.txt.lite.annotated.pep19.fa.map.txt",
+				"/Users/devin/Desktop/pb16/PB-MS-016-TM-NT-SM-B5S1I-SM-AYO9E.pon_filtered.txt.lite.annotated.pep17.fa.map.txt",
+				"/Users/devin/Desktop/pb16/PB-MS-016-TM-NT-SM-B5S1I-SM-AYO9E.pon_filtered.txt.lite.annotated.out",
+				"/Users/devin/Desktop/pb16/PB-MS-016-TM-NT-SM-B5S1I-SM-AYO9E.pon_filtered.txt.lite.annotated.fullpeptide.fa",
+				"/Users/devin/Desktop/pb16/PB-MS-016-TM-NT-SM-B5S1I-SM-AYO9E.combined.fullpeptide.fa",
+				"/Users/devin/Desktop/pb16/PB-MS-016-TM-NT-SM-B5S1I-SM-AYO9E.combined.binders.txt",
+				"/Users/devin/Desktop/PB-MS-016-Tumor-SM-B5S1I_TPRA1_c.857delC-2.tsv",
+				"/Users/devin/Desktop/scripts/append.r",
+				"/Users/devin/Desktop/scripts/common_functions_hla.pl",
+				"/Users/devin/Desktop/netMHCpan-2.8.src/nnlinplayer",
+				"/Users/devin/Desktop/netMHCpan-2.8.src/netMHCpan.linux",
+				"/Users/devin/Desktop/stderr.txt",
+				"/Users/devin/Desktop/hd_ctdna_normals.tsv",
+				"/Users/devin/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+				"/Users/devin/Desktop/jobs.txt",
+				"/Users/devin/.oh-my-zsh/themes/agnoster.zsh-theme",
+				"/Users/devin/Desktop/HD1.ctDNA.EX.pcov.cr.stat",
+				"/Users/devin/Desktop/HD1.ctDNA.EX.coverage",
+				"/Users/devin/Desktop/ABSOLUTEv1.4/batch_exec_ABSOLUTE.R",
+				"/Users/devin/Desktop/ABSOLUTEv1.4/library/R/absolute.R",
+				"/Users/devin/Desktop/ABSOLUTEv1.4/library/R/CN_MAF_file_lookup.R",
+				"/Users/devin/Desktop/excludererun.tsv",
+				"/Users/devin/Desktop/PB-MS-001-TM-NT-SM-B5RXT-SM-B5RXW.combined.binders.txt",
+				"/Users/devin/Dropbox/carterlab/code/alleliccapseg/R/file_parsers.R",
+				"/Users/devin/Dropbox/carterlab/code/alleliccapseg/R/AllelicCapseg.R",
+				"/Users/devin/Dropbox/carterlab/code/alleliccapseg/inst/bin/acapseg.r",
+				"/Users/devin/Dropbox/School/2016-1 (Spring)/Bayesian (2530)/hw/hw5/hw5.Rnw",
+				"/Users/devin/Dropbox/carterlab/projects/acs_bias/acs_bias.r",
+				"/Users/devin/Dropbox/carterlab/code/alleliccapseg/R/capseg_error_model.R",
+				"/Users/devin/Dropbox/carterlab/code/alleliccapseg/R/capture_model_fit.R",
+				"/Users/devin/Desktop/temp",
+				"/Users/devin/Desktop/instruct.txt",
+				"/Users/devin/Desktop/lik.tex",
+				"/Users/devin/Dropbox/carterlab/code/alleliccapseg/R/seg_smooth_capture.R",
+				"/Users/devin/Dropbox/carterlab/code/alleliccapseg/R/utils.R",
+				"/Users/devin/Dropbox/carterlab/code/alleliccapseg/R/SegLabelCNLOH.R"
+			],
+			"find":
+			{
+				"height": 22.0
+			},
+			"find_in_files":
+			{
+				"height": 95.0,
+				"where_history":
+				[
+					"",
+					"MailerWorker.perform_async(",
+					"",
+					"'",
+					"<open folders>,/Users/Devin/Sites/gaf",
+					"<open folders>",
+					""
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"·         ",
+					"University",
+					"20",
+					"var_mat",
+					"comut",
+					"!",
+					"$",
+					"^",
+					"get_phylo_pallette",
+					"plot_actionable_mutations_by_phylogic_branch",
+					"modal_cn",
+					"modal_total_cn",
+					"2.5",
+					"was",
+					"fig.height=3, fig.width=4",
+					"\\i{",
+					"step",
+					"2.",
+					", ",
+					"force",
+					"sample_sig",
+					"sig_gene",
+					"fdr",
+					"q",
+					"pr_wt",
+					"apply_review_and_extract",
+					"ASSZ2",
+					"T1",
+					"lb_abs_out8",
+					"10417_7",
+					"AllelicCapseg",
+					"noxy_out/PB-BS-534",
+					"/PB-BS-534-Tumor",
+					"Tumor",
+					"rds",
+					"jobs",
+					"/local/cga-fh",
+					"forcecall",
+					"/local/cga-fh/cga/An_LiquidBiopsy_WES/",
+					"/local/cga-fh/cga/An_LiquidBiopsy_WES/Pair/10417_1-CSF_T1-Normal-SM-ASSYE/jobs/capture/AllelicCapseg/",
+					"/local",
+					"rds",
+					"10417_7.BN.EX.hets.filtered.ghet",
+					"\t_\t",
+					"_",
+					"PB-BS-534-Tumor-SM-7AJSZ",
+					"\t_\t_\t",
+					"534-Tumor-SM",
+					"_\t/xchip",
+					"filtered",
+					"xchip",
+					"local_ice_noxy_out",
+					"BRAF",
+					"braf",
+					"BRAF",
+					"braf",
+					"[1] ",
+					"]]",
+					"  ",
+					" [",
+					"\n",
+					"  ",
+					"]",
+					"plot_actionable_mutations_by_phylogic_branch",
+					", ",
+					"Interaction with \\w+ and \\w+",
+					"Interaction with \\w+ and \\w +",
+					"Interaction with",
+					"vanallen",
+					"02",
+					"01",
+					"00",
+					"1.3",
+					",",
+					"\"",
+					"[",
+					" [",
+					":",
+					",",
+					";",
+					"\"\"",
+					";",
+					"height = 70, width = 15",
+					"\n",
+					" ",
+					"b2m",
+					"PB",
+					"#",
+					"  ",
+					" ",
+					"  ",
+					" [",
+					"shrinkage = 0.1",
+					"height=6",
+					"height=5",
+					"33333",
+					"fig.height=2",
+					"width",
+					"caret",
+					"5",
+					"step",
+					")",
+					"/",
+					"Missing branch colors:",
+					"  ",
+					"t  ",
+					"005",
+					"PB",
+					"allen",
+					".hets",
+					"out/",
+					"\n",
+					" ",
+					"]",
+					"\"",
+					"plot_APE_tree",
+					"multi_tree_res",
+					"N_muts",
+					"plot(APE_tree",
+					"__",
+					"free_ND_get_edge_labels",
+					"edge.length",
+					"edge.len",
+					"n_muts",
+					"n_mut",
+					"free_ND_get_edge_labels",
+					"muts",
+					"n_muts"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"",
+					";",
+					"UPDATE player_games SET owned=$3 INNER JOIN players ON player_games.player_id=players.id INNER JOIN games ON player_games.game_id=games.id WHERE players.name=\"$2\" AND players.position=\"$1\" AND games.week_id=129",
+					"$1$2",
+					"$2 $1,",
+					"priority_score",
+					"\"$2 $1\"",
+					"has_one",
+					"has_and_belongs_to_many",
+					"belongs_to",
+					"has_many",
+					"ActiveRecord::Base",
+					"$1 $2",
+					"\\n\\n%",
+					"\"",
+					"'",
+					"\"",
+					"edit_state_after",
+					"name_provided",
+					"sets_name",
+					"Intruders are less likely to break into a home known to have a security system.",
+					"cart_line_items_not_monitoring",
+					"details_icon",
+					"dtg",
+					"shop",
+					"shop_path",
+					"bsys_pages[0].route",
+					".container-fluid",
+					"spree/shared/subtotal_total",
+					"STRIPE_API",
+					"item_f",
+					"components_and_monitoring_plan",
+					"fake_monitoring_plan",
+					"scout_products_and_fake_monitoring_plan",
+					"constructor: ->",
+					"@Scout",
+					"Base",
+					"extends @Scout.Base",
+					"class @Scout.",
+					"$('\\2').\\1 ->",
+					"$('\\2').\\1 (e) ->",
+					"ready = ->",
+					"orders/subtotal_total",
+					"$(@)",
+					"@product.filename",
+					"product.filename",
+					"bsys",
+					"@extend %overlay",
+					"shop_path",
+					"the_buttons",
+					"header_with_buttons",
+					"$brand-success",
+					"$gray-light",
+					"$gray-dark",
+					"$brand-primary",
+					"white",
+					"$gray-light",
+					"user_assessments",
+					"$('.working').removeClass('working')",
+					"requires-account",
+					"quote.png",
+					".secondary",
+					"subject.subject_teacher",
+					"AP and Advanced Placement",
+					".lesson-navigation",
+					"link_to 'AP<span class=\"asterisk\">*</span> Tests'.html_safe,",
+					"AP<span class=\"asterisk\">*</span>",
+					"AP* exam",
+					"AP* Exam",
+					"AP* class",
+					"AP* student",
+					"AP* teachers",
+					"AP* Tests",
+					"watched_activities",
+					"Activity.record!",
+					"- content_for :subheading do\n  .row\n    .span12\n      %h1",
+					"- content_for :subheading do\n  .row\n    .span12\n      %h1 ",
+					"%h1= breadcrumbs",
+					":vcr",
+					":position, ",
+					": ",
+					"update_attribute(position: ",
+					"Lesson.find($1)",
+					").set_list_position(",
+					"\n).set_list_position(",
+					"\n",
+					"\\n",
+					",",
+					"seek_to_assessment_flat_item",
+					"asset_path",
+					"for_json",
+					"Sidekiq::Extensions::DelayedMailer.jobs.size.should",
+					"Mailer.delay.",
+					"'",
+					"MailerWorker",
+					"MailerWorker.perform_async(",
+					"",
+					"latexed",
+					"yield_results",
+					"Happy studying",
+					"'",
+					"randomize_answers: false\ncalc_allowed: false",
+					"randomize_answers: true\ncalc_allowed: true",
+					"randomize_answers: true\ncalc_allowed: false",
+					"'",
+					"FAQs",
+					"'",
+					"\"",
+					"'",
+					"$1",
+					"",
+					"        -",
+					"$$$",
+					"$$",
+					"$$$",
+					"MailchimpController",
+					"",
+					"enkoding",
+					"Enkoding",
+					"#gaf-navbar",
+					"'",
+					"lighten(#a8b2b0, 25%)",
+					"'",
+					"@user_shipping.\\1 = @shipping.\\1",
+					"validate_and_charge!(",
+					"'",
+					"input",
+					"'"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 21.0
+			},
+			"input":
+			{
+				"height": 31.0
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 90.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"output.reg_replace_results":
+			{
+				"height": 90.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 40.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"makeall",
+						"library/R/make_allelic_seg_obj.R"
+					],
+					[
+						"sor",
+						"PB-BS-501-Normal-SM-7AJMY.hets"
+					],
+					[
+						"comut",
+						"ND_Phylogic_comut_plot.R"
+					],
+					[
+						"scatt",
+						"library/R/scatter_jobs.R"
+					],
+					[
+						"allelicpanel",
+						"src/main/java/org/broadinstitute/hellbender/tools/pon/allelic/AllelicPanelOfNormalsCreator.java"
+					],
+					[
+						"callcnlohandsplits",
+						"src/test/java/org/broadinstitute/hellbender/tools/exome/CallCNLoHAndSplitsIntegrationTest.java"
+					],
+					[
+						"fraction",
+						"src/main/java/org/broadinstitute/hellbender/tools/exome/allelefraction/AlleleFractionData.java"
+					],
+					[
+						"allelic",
+						"src/main/java/org/broadinstitute/hellbender/tools/exome/allelefraction/AlleleFractionIndicator.java"
+					],
+					[
+						"allel",
+						"src/main/java/org/broadinstitute/hellbender/tools/exome/allelefraction/AlleleFractionModeller.java"
+					],
+					[
+						".param",
+						"src/test/resources/org/broadinstitute/hellbender/tools/exome/af-params-from-allelic-integration.af.param"
+					],
+					[
+						"seg",
+						"R/segment.R"
+					],
+					[
+						"getgc",
+						"R/getgc.R"
+					],
+					[
+						"synta",
+						"src/main/scala/wdl4s/formatter/SyntaxFormatter.scala"
+					],
+					[
+						"syntax",
+						"MakeSnake/project/wdl4s/src/main/scala/wdl4s/formatter/SyntaxFormatter.scala"
+					],
+					[
+						"build",
+						"MakeSnake/build.sbt"
+					],
+					[
+						"main",
+						"src/main/scala/wdl4s/TaskInput.scala"
+					],
+					[
+						"ex",
+						"src/main/scala/wdl4s/examples/ex1.scala"
+					],
+					[
+						"ex1",
+						"src/main/scala/wdl4s/examples/ex1.scala"
+					],
+					[
+						"namespace",
+						"src/main/scala/wdl4s/WdlNamespace.scala"
+					],
+					[
+						"format",
+						"src/main/scala/wdl4s/formatter/SyntaxFormatter.scala"
+					],
+					[
+						"wdlpa",
+						"src/main/java/wdl4s/parser/WdlParser.java"
+					],
+					[
+						"wdlpars",
+						"src/main/java/wdl4s/parser/WdlParser.java"
+					],
+					[
+						"ex8",
+						"src/main/scala/wdl4s/examples/ex8.scala"
+					],
+					[
+						"astto",
+						"src/main/scala/wdl4s/AstTools.scala"
+					],
+					[
+						"alan",
+						"themes/alanpeabody.zsh-theme"
+					],
+					[
+						"play",
+						"app/models/player.rb"
+					],
+					[
+						"gem",
+						"Gemfile"
+					],
+					[
+						"pg",
+						"app/models/player_game.rb"
+					],
+					[
+						"ownre",
+						"lib/owned_reg.r"
+					],
+					[
+						"own",
+						"lib/owned.rb"
+					],
+					[
+						"adminpg",
+						"app/admin/player_game.rb"
+					],
+					[
+						"week",
+						"app/models/week.rb"
+					],
+					[
+						"atom",
+						"src/atom.xml"
+					],
+					[
+						"fp",
+						"lib/fantasy_pros.rb"
+					],
+					[
+						"prep",
+						"lib/prep.rb"
+					],
+					[
+						"js",
+						"app/assets/javascripts/active_admin.js.coffee"
+					],
+					[
+						"ls",
+						"app/models/lineup_set.rb"
+					],
+					[
+						"corr",
+						"app/models/corr.rb"
+					],
+					[
+						"line",
+						"app/models/lineup.rb"
+					],
+					[
+						"pre",
+						"lib/prep.rb"
+					],
+					[
+						"java",
+						"app/assets/javascripts/active_admin.js.coffee"
+					],
+					[
+						"ajs",
+						"app/assets/javascripts/application.js.coffee"
+					],
+					[
+						"lpc",
+						"lib/lineup_point_calculator.rb"
+					],
+					[
+						"das",
+						"app/admin/dashboard.rb"
+					],
+					[
+						"css",
+						"app/assets/stylesheets/active_admin.css.scss"
+					],
+					[
+						"sche",
+						"db/schema.rb"
+					],
+					[
+						"intmax",
+						"db/migrate/20160115190039_int_max_prop.rb"
+					],
+					[
+						"lineta",
+						"app/views/admin/shared/_lineup_table.html.haml"
+					],
+					[
+						"dnmax",
+						"db/migrate/20160115185805_add_dn_max_props_to_lineups.rb"
+					],
+					[
+						"max",
+						"db/migrate/20160115184332_add_max_prop_to_lineup_player_games.rb"
+					],
+					[
+						"maxpr",
+						"db/migrate/20160115181805_add_max_prop_to_player_games.rb"
+					],
+					[
+						"maxprop",
+						"db/migrate/20160115181805_add_max_prop_to_player_games.rb"
+					],
+					[
+						"maxp",
+						"db/migrate/20160115181805_add_max_prop_to_player_games.rb"
+					],
+					[
+						"adminline",
+						"app/admin/lineup.rb"
+					],
+					[
+						"str",
+						"config/initializers/structs.rb"
+					],
+					[
+						"ppc",
+						"lib/player_game_point_calculator.rb"
+					],
+					[
+						"groh",
+						"app/views/dashboard/_build_group.html.haml"
+					],
+					[
+						"adminjs",
+						"app/assets/javascripts/active_admin.js.coffee"
+					],
+					[
+						"buildg",
+						"app/views/dashboard/_build_group.html.haml"
+					],
+					[
+						"struc",
+						"config/initializers/structs.rb"
+					],
+					[
+						"dash",
+						"app/admin/dashboard.rb"
+					],
+					[
+						"lingr",
+						"app/models/lineup_group.rb"
+					],
+					[
+						"lgen",
+						"lib/lineup_generator.rb"
+					],
+					[
+						"gamelo",
+						"app/views/players/_game_log.html.haml"
+					],
+					[
+						"adminpla",
+						"app/admin/player.rb"
+					],
+					[
+						"ownr",
+						"lib/owned_reg.r"
+					],
+					[
+						"impor",
+						"lib/importer.rb"
+					],
+					[
+						"lins",
+						"app/models/lineup_set.rb"
+					],
+					[
+						"wee",
+						"app/models/week.rb"
+					],
+					[
+						"linge",
+						"lib/lineup_generator.rb"
+					],
+					[
+						"imp",
+						"lib/importer.rb"
+					],
+					[
+						"nfli",
+						"lib/nfldb/importer.rb"
+					],
+					[
+						"currht",
+						"app/views/current/_current_group.html.haml"
+					],
+					[
+						"live",
+						"lib/live.rb"
+					],
+					[
+						"curr",
+						"app/admin/current.rb"
+					],
+					[
+						"ligr",
+						"app/models/lineup_group.rb"
+					],
+					[
+						"owrb",
+						"lib/owned.rb"
+					],
+					[
+						"he",
+						"app/helpers/active_admin/views_helper.rb"
+					],
+					[
+						"addstatus",
+						"db/migrate/20151231012117_add_status_to_player_game.rb"
+					],
+					[
+						"pla",
+						"app/models/player.rb"
+					],
+					[
+						"impo",
+						"lib/nfldb/importer.rb"
+					],
+					[
+						"ge",
+						"Gemfile"
+					],
+					[
+						"adminlinse",
+						"app/admin/lineup_set.rb"
+					],
+					[
+						"currgr",
+						"app/views/current/_current_group.html.haml"
+					],
+					[
+						"blakcl",
+						"app/views/player_games/blacklist.js.erb"
+					],
+					[
+						"helper",
+						"app/helpers/active_admin/views_helper.rb"
+					],
+					[
+						"b",
+						"lib/nfldb/box_scorer.rb"
+					],
+					[
+						"lp",
+						"lib/lineup_point_calculator.rb"
+					],
+					[
+						"ownreg",
+						"lib/owned_reg.r"
+					],
+					[
+						"ownrb",
+						"lib/owned.rb"
+					],
+					[
+						"box",
+						"lib/nfldb/box_scorer.rb"
+					],
+					[
+						"owr",
+						"lib/owned.r"
+					],
+					[
+						"ing",
+						"lib/lineup_generator.rb"
+					],
+					[
+						"adminlin",
+						"app/admin/lineup.rb"
+					],
+					[
+						"corre",
+						"lib/correlations.rb"
+					],
+					[
+						"lingen",
+						"lib/lineup_generator.rb"
+					],
+					[
+						"route",
+						"config/routes.rb"
+					],
+					[
+						"current",
+						"app/views/dashboard/_current_group.html.haml"
+					],
+					[
+						"tableht",
+						"app/views/admin/shared/_lineup_table.html.haml"
+					],
+					[
+						"game",
+						"app/models/game.rb"
+					],
+					[
+						"boxsc",
+						"lib/nfldb/box_scorer.rb"
+					],
+					[
+						"grouphtml",
+						"app/views/dashboard/_build_group.html.haml"
+					],
+					[
+						"genhtml",
+						"app/views/dashboard/_generate.html.haml"
+					],
+					[
+						"linegr",
+						"app/models/lineup_group.rb"
+					],
+					[
+						"linpc",
+						"lib/lineup_point_calculator.rb"
+					],
+					[
+						"capy",
+						"config/initializers/capybara.rb"
+					],
+					[
+						"numb",
+						"lib/numberfire.rb"
+					],
+					[
+						"four",
+						"lib/four_for_four.rb"
+					],
+					[
+						"lines",
+						"app/models/lineup_set.rb"
+					],
+					[
+						"lin",
+						"app/models/lineup.rb"
+					],
+					[
+						"ow",
+						"lib/owned.r"
+					],
+					[
+						"inge",
+						"lib/lineup_generator.rb"
+					],
+					[
+						"lis",
+						"app/models/lineup_set.rb"
+					],
+					[
+						"linese",
+						"app/admin/lineup_set.rb"
+					],
+					[
+						"ling",
+						"lib/lineup_generator.rb"
+					],
+					[
+						"linege",
+						"lib/lineup_generator.rb"
+					],
+					[
+						"ingen",
+						"lib/lineup_generator.rb"
+					],
+					[
+						"fap",
+						"lib/fantasy_pros.rb"
+					],
+					[
+						"linep",
+						"lib/lineup_point_calculator.rb"
+					],
+					[
+						"exppara",
+						"db/migrate/20151218035833_experiment_params.rb"
+					],
+					[
+						"exp",
+						"app/models/experiment.rb"
+					],
+					[
+						"cont",
+						"app/models/contest.rb"
+					],
+					[
+						"fant",
+						"lib/fantasy_pros.rb"
+					],
+					[
+						"contj",
+						"lib/contest.js"
+					],
+					[
+						"table",
+						"app/views/admin/shared/_lineup_table.html.haml"
+					],
+					[
+						"lineupta",
+						"app/views/lineup_sets/_current_group_table.html.haml"
+					],
+					[
+						"lgro",
+						"app/models/lineup_group.rb"
+					],
+					[
+						"owne",
+						"lib/owned.rb"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": false,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 206.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 1440.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"normal",
+						"normal_index"
+					],
+					[
+						"command",
+						"command_str"
+					],
+					[
+						"shell",
+						"shell_str"
+					],
+					[
+						"position",
+						"position_id"
+					],
+					[
+						"rent",
+						"rent_own"
+					],
+					[
+						"mother",
+						"mother_married"
+					],
+					[
+						"his",
+						"hispanic"
+					],
+					[
+						"child",
+						"children_in_household"
+					],
+					[
+						"ins_other",
+						"ins_other_gov"
+					],
+					[
+						"ins_",
+						"ins_lacked"
+					],
+					[
+						"ins",
+						"ins_types"
+					],
+					[
+						"above",
+						"above_gt_75k"
+					],
+					[
+						"has_",
+						"has_ins_info"
+					],
+					[
+						"mutate",
+						"mutate\t{dplyr}"
+					],
+					[
+						"logical",
+						"logical_cols"
+					],
+					[
+						"suppres",
+						"suppressWarnings\t{base}"
+					],
+					[
+						"y_be_",
+						"y_be_basement"
+					],
+					[
+						"p1jags",
+						"p1jags_mcmc"
+					],
+					[
+						"y",
+						"ylim\t{ggplot2}"
+					],
+					[
+						"brfss_",
+						"brfss_sub_com"
+					],
+					[
+						"predict",
+						"predict.glm\t{stats}"
+					],
+					[
+						"sample_",
+						"sample_taus"
+					],
+					[
+						"control_",
+						"control_deaths"
+					],
+					[
+						"fitted",
+						"fitted.values\t{stats}"
+					],
+					[
+						"ctqA",
+						"ctqA_imp"
+					],
+					[
+						"lambda",
+						"lambda1986"
+					],
+					[
+						"bush_",
+						"bush_diff"
+					],
+					[
+						"winners",
+						"winners_probs"
+					],
+					[
+						"load_",
+						"load_games_template"
+					],
+					[
+						"games",
+						"games_template"
+					],
+					[
+						"next",
+						"next_round_i"
+					],
+					[
+						"team",
+						"team_region"
+					],
+					[
+						"platelet",
+						"platelet_count"
+					],
+					[
+						"row",
+						"rownames\t{base}"
+					],
+					[
+						"seq",
+						"seq_along\t{base}"
+					],
+					[
+						"ma",
+						"max_max_prop"
+					],
+					[
+						"pos",
+						"position"
+					],
+					[
+						"max",
+						"max_props"
+					],
+					[
+						"tex",
+						"text-transform: "
+					],
+					[
+						"sample",
+						"sample_i"
+					],
+					[
+						"pred_w",
+						"pred_without"
+					],
+					[
+						"d_wo",
+						"d_wor_pos"
+					],
+					[
+						"wt",
+						"wt_prev_owned"
+					],
+					[
+						"plaer",
+						"player_games"
+					],
+					[
+						"pred",
+						"pred_with0"
+					],
+					[
+						"prev2",
+						"prev2_points"
+					],
+					[
+						"prev",
+						"prev1_points"
+					],
+					[
+						"prev1_",
+						"prev1_points"
+					],
+					[
+						"pad",
+						"padding-right: "
+					],
+					[
+						"line",
+						"lineup_set"
+					],
+					[
+						"lineup",
+						"lineup_set"
+					],
+					[
+						"player",
+						"player_games"
+					],
+					[
+						"away_",
+						"away_stats"
+					],
+					[
+						"live",
+						"live_points"
+					],
+					[
+						"game",
+						"game_data"
+					],
+					[
+						"dfs",
+						"dfs_rank_text"
+					],
+					[
+						"lineup_set",
+						"lineup_set_id"
+					],
+					[
+						"font-",
+						"font-style: "
+					],
+					[
+						"fff",
+						"fff_points"
+					],
+					[
+						"sum",
+						"sum_variance"
+					],
+					[
+						"xreg",
+						"xreg_curr"
+					],
+					[
+						"curr",
+						"curr_week"
+					],
+					[
+						"pla",
+						"player_game"
+					],
+					[
+						"proj",
+						"projected_points"
+					],
+					[
+						"mean",
+						"mean_lineup_rank"
+					],
+					[
+						"mea",
+						"mean_lineup_rank"
+					],
+					[
+						"Lineup",
+						"LineupGroup"
+					],
+					[
+						"update",
+						"update_all"
+					],
+					[
+						"n",
+						"n_lineups"
+					],
+					[
+						"pgid",
+						"pgids_a"
+					],
+					[
+						"owned",
+						"owned_reg"
+					],
+					[
+						"dcurr",
+						"dcurrfitted"
+					],
+					[
+						"aa",
+						"aa_fit"
+					],
+					[
+						"Play",
+						"PlayerGame"
+					],
+					[
+						"projec",
+						"projected_points_sd"
+					],
+					[
+						"play",
+						"player_id"
+					],
+					[
+						"the",
+						"the_team_id"
+					],
+					[
+						"the_",
+						"the_position_id"
+					],
+					[
+						"posi",
+						"position_id"
+					],
+					[
+						"ff",
+						"fff_points"
+					],
+					[
+						"sear",
+						"search_pos"
+					],
+					[
+						"border",
+						"border-left: "
+					],
+					[
+						"points",
+						"points_mean"
+					],
+					[
+						"estim",
+						"estimated_owneds"
+					],
+					[
+						"plae",
+						"player_game"
+					],
+					[
+						"cor",
+						"corr_prior"
+					],
+					[
+						"pl",
+						"player_y_id"
+					],
+					[
+						"import",
+						"import_actual"
+					],
+					[
+						"home",
+						"home_points"
+					],
+					[
+						"aw",
+						"away_points"
+					],
+					[
+						"awy",
+						"away_team_id"
+					],
+					[
+						"curre",
+						"current_group"
+					],
+					[
+						"rev",
+						"revenue"
+					],
+					[
+						"pre",
+						"previous_box_score_rank"
+					],
+					[
+						"prevoius",
+						"previous_owned_rank"
+					],
+					[
+						"lg",
+						"lg_ids"
+					],
+					[
+						"queries_",
+						"queries_pluck"
+					],
+					[
+						"OFF",
+						"offset"
+					],
+					[
+						"BA",
+						"batch_size"
+					],
+					[
+						"PlayerGame",
+						"LineupPlayerGame"
+					],
+					[
+						"sigma",
+						"sigmasq"
+					],
+					[
+						"point",
+						"points_sd"
+					],
+					[
+						"previous",
+						"previous_owned"
+					],
+					[
+						"all",
+						"all_weeks"
+					],
+					[
+						"box",
+						"box_score"
+					],
+					[
+						"po",
+						"points_sd"
+					],
+					[
+						"bor",
+						"border-top: "
+					],
+					[
+						"bac",
+						"background-color: "
+					],
+					[
+						"tea",
+						"team_name"
+					],
+					[
+						"name",
+						"name_matches"
+					],
+					[
+						"op",
+						"oponent_dst"
+					],
+					[
+						"values",
+						"values_at"
+					],
+					[
+						"numbe",
+						"number_to_currency"
+					],
+					[
+						"lineu",
+						"lineups_mine"
+					],
+					[
+						"owned_",
+						"owned_mean"
+					],
+					[
+						"act",
+						"actual_points"
+					],
+					[
+						"contest",
+						"contest_entries"
+					],
+					[
+						"eli",
+						"eligible"
+					],
+					[
+						"eligi",
+						"eligible"
+					],
+					[
+						"in_",
+						"in_group_lineups"
+					],
+					[
+						"tou",
+						"tourney_size"
+					],
+					[
+						"own",
+						"gpp_owned_"
+					],
+					[
+						"sum_",
+						"sum_variance"
+					],
+					[
+						"in",
+						"inner_m_arr"
+					],
+					[
+						"lineup_p",
+						"lineup_player_games"
+					],
+					[
+						"rer",
+						"reverse_cdf"
+					],
+					[
+						"project",
+						"projection_ids"
+					],
+					[
+						"pop",
+						"pop_weighted_ranks"
+					]
+				]
+			},
+			"buffers":
+			[
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+				[
+					[
+						[
+							"Packages/LaTeXing/LaTeX.sublime-build",
+							""
+						],
+						[
+							"Packages/LaTeXing/LaTeX.sublime-build",
+							"Clean up Files"
+						],
+						[
+							"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+							""
+						],
+						[
+							"Packages/User/LaTeX.sublime-build",
+							""
+						],
+						[
+							"Packages/User/LaTeX.sublime-build",
+							"Primary Quick Build"
+						],
+						[
+							"Packages/User/LaTeX.sublime-build",
+							"Choose Quick Build"
+						],
+						[
+							"Packages/User/LaTeX.sublime-build",
+							"Clean up Files"
+						]
+					],
+					[
+						"Packages/LaTeXing/LaTeX.sublime-build",
+						""
+					]
+				],
+				[
+					[
+						[
+							"Packages/LaTeXing/LaTeX.sublime-build",
+							""
+						],
+						[
+							"Packages/LaTeXing/LaTeX.sublime-build",
+							"Primary Quick Build"
+						],
+						[
+							"Packages/LaTeXing/LaTeX.sublime-build",
+							"Choose Quick Build"
+						],
+						[
+							"Packages/LaTeXing/LaTeX.sublime-build",
+							"Clean up Files"
+						],
+						[
+							"Packages/R-Box/support/R-Box.sublime-build",
+							""
+						],
+						[
+							"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+							""
+						],
+						[
+							"Packages/User/LaTeX.sublime-build",
+							""
+						],
+						[
+							"Packages/User/LaTeX.sublime-build",
+							"Primary Quick Build"
+						],
+						[
+							"Packages/User/LaTeX.sublime-build",
+							"Choose Quick Build"
+						],
+						[
+							"Packages/User/LaTeX.sublime-build",
+							"Clean up Files"
+						]
+					],
+					[
+						"Packages/LaTeXing/LaTeX.sublime-build",
+						"Primary Quick Build"
+					]
+				],
+				[
+					[
+						[
+							"Packages/LaTeXing/LaTeX.sublime-build",
+							""
+						],
+						[
+							"Packages/LaTeXing/LaTeX.sublime-build",
+							"Primary Quick Build"
+						],
+						[
+							"Packages/LaTeXing/LaTeX.sublime-build",
+							"Choose Quick Build"
+						],
+						[
+							"Packages/LaTeXing/LaTeX.sublime-build",
+							"Clean up Files"
+						],
+						[
+							"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+							""
+						],
+						[
+							"Packages/User/LaTeX.sublime-build",
+							""
+						],
+						[
+							"Packages/User/LaTeX.sublime-build",
+							"Primary Quick Build"
+						],
+						[
+							"Packages/User/LaTeX.sublime-build",
+							"Choose Quick Build"
+						],
+						[
+							"Packages/User/LaTeX.sublime-build",
+							"Clean up Files"
+						]
+					],
+					[
+						"Packages/LaTeXing/LaTeX.sublime-build",
+						""
+					]
+				],
+				[
+					[
+						[
+							"Packages/SendText+/R - Source File.sublime-build",
+							""
+						],
+						[
+							"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+							""
+						]
+					],
+					[
+						"Packages/SendText+/R - Source File.sublime-build",
+						""
+					]
+				],
+				[
+					[
+						[
+							"Packages/knitr/knitr-Markdown.sublime-build",
+							""
+						],
+						[
+							"Packages/knitr/knitr-Markdown.sublime-build",
+							"Run"
+						],
+						[
+							"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+							""
+						]
+					],
+					[
+						"Packages/knitr/knitr-Markdown.sublime-build",
+						"Run"
+					]
+				]
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 375.0,
+				"last_filter": "sor",
+				"selected_items":
+				[
+					[
+						"sor",
+						"Sort Lines"
+					],
+					[
+						"html",
+						"Export to HTML: Show Export Menu"
+					],
+					[
+						"uniq",
+						"Permute Lines: Unique"
+					],
+					[
+						"sort",
+						"Sort Lines"
+					],
+					[
+						"uni",
+						"Permute Lines: Unique"
+					],
+					[
+						"uns",
+						"Build: New Build System"
+					],
+					[
+						"s",
+						"Sort Lines"
+					],
+					[
+						"remove",
+						"Package Control: Remove Package"
+					],
+					[
+						"instal",
+						"Package Control: Install Package"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"spaces",
+						"Indentation: Convert to Spaces"
+					],
+					[
+						"build",
+						"Build With: LaTeX - Clean up Files"
+					],
+					[
+						"trai",
+						"Trimmer: Trim leading AND trailing whitespace."
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"spell",
+						"Google Spell Check"
+					],
+					[
+						"check",
+						"Highlight Mistakes: Check Current File"
+					],
+					[
+						"clean",
+						"LaTeXing: Clean Temporary Output Dictionary"
+					],
+					[
+						"repl",
+						"SublimeREPL: R"
+					],
+					[
+						"repl r",
+						"SublimeREPL: R"
+					],
+					[
+						"rein",
+						"Indentation: Reindent Lines"
+					],
+					[
+						"indent",
+						"Indentation: Reindent Lines"
+					],
+					[
+						"remo",
+						"Package Control: Remove Package"
+					],
+					[
+						"chunk",
+						"knitr: Send Chunk to R"
+					],
+					[
+						"upgrade",
+						"Package Control: Upgrade Package"
+					],
+					[
+						"send",
+						"knitr: Send Chunk to R"
+					],
+					[
+						"update",
+						"Package Control: Upgrade/Overwrite All Packages"
+					],
+					[
+						"sendtext",
+						"SendText+: Choose Program"
+					],
+					[
+						"sendte",
+						"SendText+: Choose Program"
+					],
+					[
+						"package open",
+						"PackageResourceViewer: Open Resource"
+					],
+					[
+						"space",
+						"Indentation: Convert to Spaces"
+					],
+					[
+						"shuffle",
+						"Permute Lines: Shuffle"
+					],
+					[
+						"trim",
+						"Trimmer: Trim trailing whitespace."
+					],
+					[
+						"print",
+						"Print to HTML: print as HTML via browser"
+					],
+					[
+						"rnw",
+						"Snippet: Insert knitr Rnw chunk"
+					],
+					[
+						"title",
+						"Convert Case: Title Case"
+					],
+					[
+						"resou",
+						"PackageResourceViewer: Open Resource"
+					],
+					[
+						"json",
+						"JSON Reindent: reindent file or selection"
+					],
+					[
+						"resour",
+						"PackageResourceViewer: Open Resource"
+					],
+					[
+						"resource",
+						"PackageResourceViewer: Open Resource"
+					],
+					[
+						"package",
+						"Package Control: List Packages"
+					],
+					[
+						"isntall",
+						"Package Control: Install Package"
+					],
+					[
+						"tabs",
+						"Indentation: Convert to Tabs"
+					],
+					[
+						"hash",
+						"Ruby 1.9 Hash Reverter: revert_hash_syntax"
+					],
+					[
+						"trailin",
+						"Trailing Spaces: Delete Trailing Spaces"
+					],
+					[
+						"pack",
+						"Package Control: Remove Package"
+					],
+					[
+						"ruby",
+						"Ruby 1.9 Hash Syntax"
+					],
+					[
+						"Package Control: instal",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: ",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: install",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 579.0
+			},
+			"console":
+			{
+				"height": 308.0,
+				"history":
+				[
+					"sublime.log_commands(False) ",
+					"sublime.log_commands(True) ",
+					"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/Users/devin/Desktop/acs_sif.tsv",
+				"/acs_sif.tsv",
+				"/Users/devin/Google Drive/carterlab/projects/neoantigens/comut/mafs/PB-MS-002-TM-NT-SM-B5RXY-SM-B5RY1.union_forcecalled_binders.maf",
+				"/Users/devin/Google Drive/carterlab/projects/neoantigens/comut/comut.R",
+				"/Users/devin/Google Drive/carterlab/projects/neoantigens/Samples with Survival.csv",
+				"/Users/devin/Google Drive/carterlab/code/ABSOLUTEv1.4/library/R/make_allelic_seg_obj.R",
+				"/Users/devin/Google Drive/carterlab/projects/neoantigens/comut/nanostring.tsv",
+				"/Users/devin/Google Drive/carterlab/projects/neoantigens/comut/mafs/PB-MS-001-TM-NT-SM-B5RXT-SM-B5RXW.union_forcecalled_binders.maf",
+				"/Users/devin/Google Drive/School/2016-3 (Fall)/PDA (2550)/hw/hw04/hw04.Rnw",
+				"/Users/devin/Google Drive/School/2016-3 (Fall)/PDA (2550)/hw/hw03/hw03.Rnw",
+				"/Users/devin/Google Drive/Texts/Math-Stats/Stats/R/r4ds/.gitignore",
+				"/Users/devin/Google Drive/carterlab/code/phylogic/library/R/run_Phylogic.R",
+				"/Users/devin/Google Drive/carterlab/code/phylogic/library/R/fit_full_ND_model.R",
+				"/Users/devin/Google Drive/carterlab/code/phylogic/library/R/run_Env_Phylogic.R",
+				"/Users/devin/Google Drive/carterlab/code/phylogic/library/R/2D_histogram_consrtuct_phylogeny.R",
+				"/Users/devin/Google Drive/carterlab/code/phylogic/library/R/eval_muts_by_geneset.R",
+				"/Users/devin/Desktop/renextweeksjointmeeting/PD1+'-Ipi_Cranial.tsv",
+				"/Users/devin/Desktop/renextweeksjointmeeting/PD1+'-Ipi_Extra.tsv",
+				"/Users/devin/Desktop/renextweeksjointmeeting/Ipi+PD1_Mets.tsv",
+				"/Users/devin/Desktop/renextweeksjointmeeting/Ipi_Extra.tsv",
+				"/Users/devin/Desktop/renextweeksjointmeeting/Primary_IperIII.tsv",
+				"/Users/devin/Desktop/renextweeksjointmeeting/PreCranialIperIII.tsv",
+				"/Users/devin/Desktop/renextweeksjointmeeting/PreTumorIperIII.tsv",
+				"/Users/devin/Desktop/renextweeksjointmeeting/PD1_Cranial.tsv",
+				"/Users/devin/Desktop/renextweeksjointmeeting/PreMetsIperIII.tsv",
+				"/Users/devin/Desktop/renextweeksjointmeeting/PreExtraIperIII.tsv",
+				"/Users/devin/Desktop/renextweeksjointmeeting/Ipi+PD1_Cranial.tsv",
+				"/Users/devin/Desktop/renextweeksjointmeeting/Ipi_Cranial.tsv",
+				"/Users/devin/Desktop/renextweeksjointmeeting/Ipi+'-PD1_Mets.tsv",
+				"/Users/devin/Desktop/renextweeksjointmeeting/Ipi+'-PD1_Extra.tsv",
+				"/Users/devin/Desktop/renextweeksjointmeeting/Ipi+'-PD1_Cranial.tsv",
+				"/Users/devin/Desktop/renextweeksjointmeeting/Ipi_Mets.tsv",
+				"/Users/devin/Google Drive/carterlab/code/ABSOLUTEv1.4/README",
+				"/Users/devin/Google Drive/carterlab/code/ABSOLUTEv1.4/cut_release.sh",
+				"/Users/devin/Google Drive/carterlab/code/phylogic/library/R/aggregate_Phylogic_MAFs.R",
+				"/Users/devin/Code/alleliccapseg/R/capture_model_fit.R",
+				"/Users/devin/Code/alleliccapseg/R/capseg_error_model.R",
+				"/Users/devin/Code/ABSOLUTEv1.4/library/R/absolute.R",
+				"/Users/devin/Code/ABSOLUTEv1.4/ABSOLUTE_stub.R",
+				"/Users/devin/Code/ABSOLUTEv1.4/batch_exec_ABSOLUTE.R",
+				"/Users/devin/Code/ABSOLUTEv1.4/library/DESCRIPTION",
+				"/Users/devin/.zshrc",
+				"/Users/devin/Code/phylogic/.gitignore",
+				"/Users/devin/Code/phylogic/library/R/.full_ND_Phylogic_plots.R.swp",
+				"/Users/devin/Code/phylogic/library/R/.plot_ABS_fit.R.swo",
+				"/Users/devin/Code/Phylogic.v1.0/library/R/phylogic_comut_plots.R",
+				"/Users/devin/Code/Phylogic.v1.0/library/R/summarize_Phylogic.R",
+				"/Users/devin/Code/Phylogic.v1.0/library/R/aggregate_ND_Phylogic_results.R",
+				"/Users/devin/Code/Phylogic.v1.0/library/R/eval_muts_by_geneset.R",
+				"/Users/devin/Code/dotfiles/iTerm.json",
+				"/Users/devin/carterlab/code/absolute/library/R/ABS_SCNA_extraction_functions.R",
+				"/Users/devin/carterlab/code/absolute/library/R/fit_modes_SCNA_models.R",
+				"/Users/devin/Library/Application Support/Sublime Text 3/Packages/User/Monokai Soda.tmTheme",
+				"/Users/devin/carterlab/code/absolute/library/DESCRIPTION",
+				"/Users/devin/carterlab/code/absolute/library/NAMESPACE",
+				"/Users/devin/carterlab/code/absolute/.ABSOLUTE_stub.R.swo",
+				"/Users/devin/Desktop/Monokai%20Soda.colorscheme",
+				"/Users/devin/Desktop/Monokai%20Soda.itermcolors",
+				"/Users/devin/carterlab/code/absolute/library/R/scatter_jobs.R",
+				"/Users/devin/.ssh/config",
+				"/Users/devin/carterlab/projects/apon_pres/apon_pres.tex",
+				"/Users/devin/carterlab/code/absolute/run.R",
+				"/Users/devin/carterlab/code/absolute/library/R/batch_exec_functions.R",
+				"/Users/devin/carterlab/code/absolute/library/R/CN_MAF_file_lookup.R",
+				"/Users/devin/carterlab/code/absolute/batch_exec_ABSOLUTE.R",
+				"/Users/devin/carterlab/code/absolute/ABSOLUTE_stub.R",
+				"/Users/devin/carterlab/code/absolute/library/R/mult_clust_EM.R",
+				"/Users/devin/carterlab/code/absolute/library/R/provisional_gaussian_mixture_mode_finder.R",
+				"/Users/devin/carterlab/code/absolute/library/R/.absolute.R.swo",
+				"/Users/devin/carterlab/code/absolute/library/data/Imielinski2012_genesets.RData",
+				"/Users/devin/carterlab/code/absolute/cut_release.sh",
+				"/Users/devin/carterlab/code/absolute/.gitignore",
+				"/Users/devin/Desktop/stdout.txt",
+				"/Users/devin/Desktop/ag.tsv",
+				"/Users/devin/Desktop/pairs",
+				"/Users/devin/Desktop/pairset.tsv",
+				"/Users/devin/Desktop/pair.tsv",
+				"/Users/devin/Desktop/samp.tsv",
+				"/Users/devin/Desktop/pb16/PB-MS-016-TM-NT-SM-B5S1I-SM-AYO9E.pon_annotated.pass.maf.lite.annotated.pep19.fa",
+				"/Users/devin/Desktop/pb16/PB-MS-016-TM-NT-SM-B5S1I-SM-AYO9E.pon_annotated.pass.maf.lite.annotated.pep17.fa",
+				"/Users/devin/Desktop/pb16/PB-MS-016-TM-NT-SM-B5S1I-SM-AYO9E.pon_filtered.txt.lite.annotated.pep19.fa",
+				"/Users/devin/Desktop/pb16/PB-MS-016-TM-NT-SM-B5S1I-SM-AYO9E.pon_filtered.txt.lite.annotated.pep33.fa",
+				"/Users/devin/Desktop/pb16/PB-MS-016-TM-NT-SM-B5S1I-SM-AYO9E.pon_filtered.txt.lite.annotated.pep19.fa.nmhc.in",
+				"/Users/devin/Desktop/pb16/PB-MS-016-TM-NT-SM-B5S1I-SM-AYO9E.pon_filtered.txt.lite.annotated.pep19.fa.binders.txt",
+				"/Users/devin/Desktop/pb16/PB-MS-016-TM-NT-SM-B5S1I-SM-AYO9E.pon_filtered.txt.lite.annotated.pep19.fa.nmhc.out",
+				"/Users/devin/Desktop/pb16/PB-MS-016-TM-NT-SM-B5S1I-SM-AYO9E.pon_annotated.pass.maf.lite.annotated.pep19.fa.nmhc.in",
+				"/Users/devin/Desktop/pb16/PB-MS-016-TM-NT-SM-B5S1I-SM-AYO9E.pon_annotated.pass.maf.lite.annotated.pep17.fa.nmhc.in",
+				"/Users/devin/Desktop/pb16/PB-MS-016-TM-NT-SM-B5S1I-SM-AYO9E.pon_annotated.pass.maf.lite.annotated.pep19.fa.map.txt",
+				"/Users/devin/Desktop/pb16/PB-MS-016-TM-NT-SM-B5S1I-SM-AYO9E.pon_annotated.pass.maf.lite.annotated.pep19.fa.binders.txt",
+				"/Users/devin/Desktop/pb16/PB-MS-016-TM-NT-SM-B5S1I-SM-AYO9E.pon_annotated.pass.maf.lite.annotated.pep19.fa.nmhc.out",
+				"/Users/devin/Desktop/4-binders.tsv",
+				"/Users/devin/Desktop/PB-MS-016-Tumor-SM-B5S1I_TPRA1_c.857delC.csv",
+				"/Users/devin/Desktop/pb16/PB-MS-016-TM-NT-SM-B5S1I-SM-AYO9E.pon_filtered.txt.lite.annotated.pep19.fa.map.txt",
+				"/Users/devin/Desktop/pb16/PB-MS-016-TM-NT-SM-B5S1I-SM-AYO9E.pon_filtered.txt.lite.annotated.pep17.fa.map.txt",
+				"/Users/devin/Desktop/pb16/PB-MS-016-TM-NT-SM-B5S1I-SM-AYO9E.pon_filtered.txt.lite.annotated.out",
+				"/Users/devin/Desktop/pb16/PB-MS-016-TM-NT-SM-B5S1I-SM-AYO9E.pon_filtered.txt.lite.annotated.fullpeptide.fa",
+				"/Users/devin/Desktop/pb16/PB-MS-016-TM-NT-SM-B5S1I-SM-AYO9E.combined.fullpeptide.fa",
+				"/Users/devin/Desktop/pb16/PB-MS-016-TM-NT-SM-B5S1I-SM-AYO9E.combined.binders.txt",
+				"/Users/devin/Desktop/PB-MS-016-Tumor-SM-B5S1I_TPRA1_c.857delC-2.tsv",
+				"/Users/devin/Desktop/scripts/append.r",
+				"/Users/devin/Desktop/scripts/common_functions_hla.pl",
+				"/Users/devin/Desktop/netMHCpan-2.8.src/nnlinplayer",
+				"/Users/devin/Desktop/netMHCpan-2.8.src/netMHCpan.linux",
+				"/Users/devin/Desktop/stderr.txt",
+				"/Users/devin/Desktop/hd_ctdna_normals.tsv",
+				"/Users/devin/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+				"/Users/devin/Desktop/jobs.txt",
+				"/Users/devin/.oh-my-zsh/themes/agnoster.zsh-theme",
+				"/Users/devin/Desktop/HD1.ctDNA.EX.pcov.cr.stat",
+				"/Users/devin/Desktop/HD1.ctDNA.EX.coverage",
+				"/Users/devin/Desktop/ABSOLUTEv1.4/batch_exec_ABSOLUTE.R",
+				"/Users/devin/Desktop/ABSOLUTEv1.4/library/R/absolute.R",
+				"/Users/devin/Desktop/ABSOLUTEv1.4/library/R/CN_MAF_file_lookup.R",
+				"/Users/devin/Desktop/excludererun.tsv",
+				"/Users/devin/Desktop/PB-MS-001-TM-NT-SM-B5RXT-SM-B5RXW.combined.binders.txt",
+				"/Users/devin/Dropbox/carterlab/code/alleliccapseg/R/file_parsers.R",
+				"/Users/devin/Dropbox/carterlab/code/alleliccapseg/R/AllelicCapseg.R",
+				"/Users/devin/Dropbox/carterlab/code/alleliccapseg/inst/bin/acapseg.r",
+				"/Users/devin/Dropbox/School/2016-1 (Spring)/Bayesian (2530)/hw/hw5/hw5.Rnw",
+				"/Users/devin/Dropbox/carterlab/projects/acs_bias/acs_bias.r",
+				"/Users/devin/Dropbox/carterlab/code/alleliccapseg/R/capseg_error_model.R",
+				"/Users/devin/Dropbox/carterlab/code/alleliccapseg/R/capture_model_fit.R",
+				"/Users/devin/Desktop/temp",
+				"/Users/devin/Desktop/instruct.txt",
+				"/Users/devin/Desktop/lik.tex",
+				"/Users/devin/Dropbox/carterlab/code/alleliccapseg/R/seg_smooth_capture.R",
+				"/Users/devin/Dropbox/carterlab/code/alleliccapseg/R/utils.R",
+				"/Users/devin/Dropbox/carterlab/code/alleliccapseg/R/SegLabelCNLOH.R"
+			],
+			"find":
+			{
+				"height": 22.0
+			},
+			"find_in_files":
+			{
+				"height": 95.0,
+				"where_history":
+				[
+					"",
+					"MailerWorker.perform_async(",
+					"",
+					"'",
+					"<open folders>,/Users/Devin/Sites/gaf",
+					"<open folders>",
+					""
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"·         ",
+					"University",
+					"20",
+					"var_mat",
+					"comut",
+					"!",
+					"$",
+					"^",
+					"get_phylo_pallette",
+					"plot_actionable_mutations_by_phylogic_branch",
+					"modal_cn",
+					"modal_total_cn",
+					"2.5",
+					"was",
+					"fig.height=3, fig.width=4",
+					"\\i{",
+					"step",
+					"2.",
+					", ",
+					"force",
+					"sample_sig",
+					"sig_gene",
+					"fdr",
+					"q",
+					"pr_wt",
+					"apply_review_and_extract",
+					"ASSZ2",
+					"T1",
+					"lb_abs_out8",
+					"10417_7",
+					"AllelicCapseg",
+					"noxy_out/PB-BS-534",
+					"/PB-BS-534-Tumor",
+					"Tumor",
+					"rds",
+					"jobs",
+					"/local/cga-fh",
+					"forcecall",
+					"/local/cga-fh/cga/An_LiquidBiopsy_WES/",
+					"/local/cga-fh/cga/An_LiquidBiopsy_WES/Pair/10417_1-CSF_T1-Normal-SM-ASSYE/jobs/capture/AllelicCapseg/",
+					"/local",
+					"rds",
+					"10417_7.BN.EX.hets.filtered.ghet",
+					"\t_\t",
+					"_",
+					"PB-BS-534-Tumor-SM-7AJSZ",
+					"\t_\t_\t",
+					"534-Tumor-SM",
+					"_\t/xchip",
+					"filtered",
+					"xchip",
+					"local_ice_noxy_out",
+					"BRAF",
+					"braf",
+					"BRAF",
+					"braf",
+					"[1] ",
+					"]]",
+					"  ",
+					" [",
+					"\n",
+					"  ",
+					"]",
+					"plot_actionable_mutations_by_phylogic_branch",
+					", ",
+					"Interaction with \\w+ and \\w+",
+					"Interaction with \\w+ and \\w +",
+					"Interaction with",
+					"vanallen",
+					"02",
+					"01",
+					"00",
+					"1.3",
+					",",
+					"\"",
+					"[",
+					" [",
+					":",
+					",",
+					";",
+					"\"\"",
+					";",
+					"height = 70, width = 15",
+					"\n",
+					" ",
+					"b2m",
+					"PB",
+					"#",
+					"  ",
+					" ",
+					"  ",
+					" [",
+					"shrinkage = 0.1",
+					"height=6",
+					"height=5",
+					"33333",
+					"fig.height=2",
+					"width",
+					"caret",
+					"5",
+					"step",
+					")",
+					"/",
+					"Missing branch colors:",
+					"  ",
+					"t  ",
+					"005",
+					"PB",
+					"allen",
+					".hets",
+					"out/",
+					"\n",
+					" ",
+					"]",
+					"\"",
+					"plot_APE_tree",
+					"multi_tree_res",
+					"N_muts",
+					"plot(APE_tree",
+					"__",
+					"free_ND_get_edge_labels",
+					"edge.length",
+					"edge.len",
+					"n_muts",
+					"n_mut",
+					"free_ND_get_edge_labels",
+					"muts",
+					"n_muts"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"",
+					";",
+					"UPDATE player_games SET owned=$3 INNER JOIN players ON player_games.player_id=players.id INNER JOIN games ON player_games.game_id=games.id WHERE players.name=\"$2\" AND players.position=\"$1\" AND games.week_id=129",
+					"$1$2",
+					"$2 $1,",
+					"priority_score",
+					"\"$2 $1\"",
+					"has_one",
+					"has_and_belongs_to_many",
+					"belongs_to",
+					"has_many",
+					"ActiveRecord::Base",
+					"$1 $2",
+					"\\n\\n%",
+					"\"",
+					"'",
+					"\"",
+					"edit_state_after",
+					"name_provided",
+					"sets_name",
+					"Intruders are less likely to break into a home known to have a security system.",
+					"cart_line_items_not_monitoring",
+					"details_icon",
+					"dtg",
+					"shop",
+					"shop_path",
+					"bsys_pages[0].route",
+					".container-fluid",
+					"spree/shared/subtotal_total",
+					"STRIPE_API",
+					"item_f",
+					"components_and_monitoring_plan",
+					"fake_monitoring_plan",
+					"scout_products_and_fake_monitoring_plan",
+					"constructor: ->",
+					"@Scout",
+					"Base",
+					"extends @Scout.Base",
+					"class @Scout.",
+					"$('\\2').\\1 ->",
+					"$('\\2').\\1 (e) ->",
+					"ready = ->",
+					"orders/subtotal_total",
+					"$(@)",
+					"@product.filename",
+					"product.filename",
+					"bsys",
+					"@extend %overlay",
+					"shop_path",
+					"the_buttons",
+					"header_with_buttons",
+					"$brand-success",
+					"$gray-light",
+					"$gray-dark",
+					"$brand-primary",
+					"white",
+					"$gray-light",
+					"user_assessments",
+					"$('.working').removeClass('working')",
+					"requires-account",
+					"quote.png",
+					".secondary",
+					"subject.subject_teacher",
+					"AP and Advanced Placement",
+					".lesson-navigation",
+					"link_to 'AP<span class=\"asterisk\">*</span> Tests'.html_safe,",
+					"AP<span class=\"asterisk\">*</span>",
+					"AP* exam",
+					"AP* Exam",
+					"AP* class",
+					"AP* student",
+					"AP* teachers",
+					"AP* Tests",
+					"watched_activities",
+					"Activity.record!",
+					"- content_for :subheading do\n  .row\n    .span12\n      %h1",
+					"- content_for :subheading do\n  .row\n    .span12\n      %h1 ",
+					"%h1= breadcrumbs",
+					":vcr",
+					":position, ",
+					": ",
+					"update_attribute(position: ",
+					"Lesson.find($1)",
+					").set_list_position(",
+					"\n).set_list_position(",
+					"\n",
+					"\\n",
+					",",
+					"seek_to_assessment_flat_item",
+					"asset_path",
+					"for_json",
+					"Sidekiq::Extensions::DelayedMailer.jobs.size.should",
+					"Mailer.delay.",
+					"'",
+					"MailerWorker",
+					"MailerWorker.perform_async(",
+					"",
+					"latexed",
+					"yield_results",
+					"Happy studying",
+					"'",
+					"randomize_answers: false\ncalc_allowed: false",
+					"randomize_answers: true\ncalc_allowed: true",
+					"randomize_answers: true\ncalc_allowed: false",
+					"'",
+					"FAQs",
+					"'",
+					"\"",
+					"'",
+					"$1",
+					"",
+					"        -",
+					"$$$",
+					"$$",
+					"$$$",
+					"MailchimpController",
+					"",
+					"enkoding",
+					"Enkoding",
+					"#gaf-navbar",
+					"'",
+					"lighten(#a8b2b0, 25%)",
+					"'",
+					"@user_shipping.\\1 = @shipping.\\1",
+					"validate_and_charge!(",
+					"'",
+					"input",
+					"'"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"groups":
+			[
+				{
+					"sheets":
+					[
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 21.0
+			},
+			"input":
+			{
+				"height": 31.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 90.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"output.reg_replace_results":
+			{
+				"height": 90.0
+			},
+			"pinned_build_system": "",
+			"position": "0 0 4 1440 873 0 0 1440 877 ",
+			"project": "",
+			"replace":
+			{
+				"height": 40.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"makeall",
+						"library/R/make_allelic_seg_obj.R"
+					],
+					[
+						"sor",
+						"PB-BS-501-Normal-SM-7AJMY.hets"
+					],
+					[
+						"comut",
+						"ND_Phylogic_comut_plot.R"
+					],
+					[
+						"scatt",
+						"library/R/scatter_jobs.R"
+					],
+					[
+						"allelicpanel",
+						"src/main/java/org/broadinstitute/hellbender/tools/pon/allelic/AllelicPanelOfNormalsCreator.java"
+					],
+					[
+						"callcnlohandsplits",
+						"src/test/java/org/broadinstitute/hellbender/tools/exome/CallCNLoHAndSplitsIntegrationTest.java"
+					],
+					[
+						"fraction",
+						"src/main/java/org/broadinstitute/hellbender/tools/exome/allelefraction/AlleleFractionData.java"
+					],
+					[
+						"allelic",
+						"src/main/java/org/broadinstitute/hellbender/tools/exome/allelefraction/AlleleFractionIndicator.java"
+					],
+					[
+						"allel",
+						"src/main/java/org/broadinstitute/hellbender/tools/exome/allelefraction/AlleleFractionModeller.java"
+					],
+					[
+						".param",
+						"src/test/resources/org/broadinstitute/hellbender/tools/exome/af-params-from-allelic-integration.af.param"
+					],
+					[
+						"seg",
+						"R/segment.R"
+					],
+					[
+						"getgc",
+						"R/getgc.R"
+					],
+					[
+						"synta",
+						"src/main/scala/wdl4s/formatter/SyntaxFormatter.scala"
+					],
+					[
+						"syntax",
+						"MakeSnake/project/wdl4s/src/main/scala/wdl4s/formatter/SyntaxFormatter.scala"
+					],
+					[
+						"build",
+						"MakeSnake/build.sbt"
+					],
+					[
+						"main",
+						"src/main/scala/wdl4s/TaskInput.scala"
+					],
+					[
+						"ex",
+						"src/main/scala/wdl4s/examples/ex1.scala"
+					],
+					[
+						"ex1",
+						"src/main/scala/wdl4s/examples/ex1.scala"
+					],
+					[
+						"namespace",
+						"src/main/scala/wdl4s/WdlNamespace.scala"
+					],
+					[
+						"format",
+						"src/main/scala/wdl4s/formatter/SyntaxFormatter.scala"
+					],
+					[
+						"wdlpa",
+						"src/main/java/wdl4s/parser/WdlParser.java"
+					],
+					[
+						"wdlpars",
+						"src/main/java/wdl4s/parser/WdlParser.java"
+					],
+					[
+						"ex8",
+						"src/main/scala/wdl4s/examples/ex8.scala"
+					],
+					[
+						"astto",
+						"src/main/scala/wdl4s/AstTools.scala"
+					],
+					[
+						"alan",
+						"themes/alanpeabody.zsh-theme"
+					],
+					[
+						"play",
+						"app/models/player.rb"
+					],
+					[
+						"gem",
+						"Gemfile"
+					],
+					[
+						"pg",
+						"app/models/player_game.rb"
+					],
+					[
+						"ownre",
+						"lib/owned_reg.r"
+					],
+					[
+						"own",
+						"lib/owned.rb"
+					],
+					[
+						"adminpg",
+						"app/admin/player_game.rb"
+					],
+					[
+						"week",
+						"app/models/week.rb"
+					],
+					[
+						"atom",
+						"src/atom.xml"
+					],
+					[
+						"fp",
+						"lib/fantasy_pros.rb"
+					],
+					[
+						"prep",
+						"lib/prep.rb"
+					],
+					[
+						"js",
+						"app/assets/javascripts/active_admin.js.coffee"
+					],
+					[
+						"ls",
+						"app/models/lineup_set.rb"
+					],
+					[
+						"corr",
+						"app/models/corr.rb"
+					],
+					[
+						"line",
+						"app/models/lineup.rb"
+					],
+					[
+						"pre",
+						"lib/prep.rb"
+					],
+					[
+						"java",
+						"app/assets/javascripts/active_admin.js.coffee"
+					],
+					[
+						"ajs",
+						"app/assets/javascripts/application.js.coffee"
+					],
+					[
+						"lpc",
+						"lib/lineup_point_calculator.rb"
+					],
+					[
+						"das",
+						"app/admin/dashboard.rb"
+					],
+					[
+						"css",
+						"app/assets/stylesheets/active_admin.css.scss"
+					],
+					[
+						"sche",
+						"db/schema.rb"
+					],
+					[
+						"intmax",
+						"db/migrate/20160115190039_int_max_prop.rb"
+					],
+					[
+						"lineta",
+						"app/views/admin/shared/_lineup_table.html.haml"
+					],
+					[
+						"dnmax",
+						"db/migrate/20160115185805_add_dn_max_props_to_lineups.rb"
+					],
+					[
+						"max",
+						"db/migrate/20160115184332_add_max_prop_to_lineup_player_games.rb"
+					],
+					[
+						"maxpr",
+						"db/migrate/20160115181805_add_max_prop_to_player_games.rb"
+					],
+					[
+						"maxprop",
+						"db/migrate/20160115181805_add_max_prop_to_player_games.rb"
+					],
+					[
+						"maxp",
+						"db/migrate/20160115181805_add_max_prop_to_player_games.rb"
+					],
+					[
+						"adminline",
+						"app/admin/lineup.rb"
+					],
+					[
+						"str",
+						"config/initializers/structs.rb"
+					],
+					[
+						"ppc",
+						"lib/player_game_point_calculator.rb"
+					],
+					[
+						"groh",
+						"app/views/dashboard/_build_group.html.haml"
+					],
+					[
+						"adminjs",
+						"app/assets/javascripts/active_admin.js.coffee"
+					],
+					[
+						"buildg",
+						"app/views/dashboard/_build_group.html.haml"
+					],
+					[
+						"struc",
+						"config/initializers/structs.rb"
+					],
+					[
+						"dash",
+						"app/admin/dashboard.rb"
+					],
+					[
+						"lingr",
+						"app/models/lineup_group.rb"
+					],
+					[
+						"lgen",
+						"lib/lineup_generator.rb"
+					],
+					[
+						"gamelo",
+						"app/views/players/_game_log.html.haml"
+					],
+					[
+						"adminpla",
+						"app/admin/player.rb"
+					],
+					[
+						"ownr",
+						"lib/owned_reg.r"
+					],
+					[
+						"impor",
+						"lib/importer.rb"
+					],
+					[
+						"lins",
+						"app/models/lineup_set.rb"
+					],
+					[
+						"wee",
+						"app/models/week.rb"
+					],
+					[
+						"linge",
+						"lib/lineup_generator.rb"
+					],
+					[
+						"imp",
+						"lib/importer.rb"
+					],
+					[
+						"nfli",
+						"lib/nfldb/importer.rb"
+					],
+					[
+						"currht",
+						"app/views/current/_current_group.html.haml"
+					],
+					[
+						"live",
+						"lib/live.rb"
+					],
+					[
+						"curr",
+						"app/admin/current.rb"
+					],
+					[
+						"ligr",
+						"app/models/lineup_group.rb"
+					],
+					[
+						"owrb",
+						"lib/owned.rb"
+					],
+					[
+						"he",
+						"app/helpers/active_admin/views_helper.rb"
+					],
+					[
+						"addstatus",
+						"db/migrate/20151231012117_add_status_to_player_game.rb"
+					],
+					[
+						"pla",
+						"app/models/player.rb"
+					],
+					[
+						"impo",
+						"lib/nfldb/importer.rb"
+					],
+					[
+						"ge",
+						"Gemfile"
+					],
+					[
+						"adminlinse",
+						"app/admin/lineup_set.rb"
+					],
+					[
+						"currgr",
+						"app/views/current/_current_group.html.haml"
+					],
+					[
+						"blakcl",
+						"app/views/player_games/blacklist.js.erb"
+					],
+					[
+						"helper",
+						"app/helpers/active_admin/views_helper.rb"
+					],
+					[
+						"b",
+						"lib/nfldb/box_scorer.rb"
+					],
+					[
+						"lp",
+						"lib/lineup_point_calculator.rb"
+					],
+					[
+						"ownreg",
+						"lib/owned_reg.r"
+					],
+					[
+						"ownrb",
+						"lib/owned.rb"
+					],
+					[
+						"box",
+						"lib/nfldb/box_scorer.rb"
+					],
+					[
+						"owr",
+						"lib/owned.r"
+					],
+					[
+						"ing",
+						"lib/lineup_generator.rb"
+					],
+					[
+						"adminlin",
+						"app/admin/lineup.rb"
+					],
+					[
+						"corre",
+						"lib/correlations.rb"
+					],
+					[
+						"lingen",
+						"lib/lineup_generator.rb"
+					],
+					[
+						"route",
+						"config/routes.rb"
+					],
+					[
+						"current",
+						"app/views/dashboard/_current_group.html.haml"
+					],
+					[
+						"tableht",
+						"app/views/admin/shared/_lineup_table.html.haml"
+					],
+					[
+						"game",
+						"app/models/game.rb"
+					],
+					[
+						"boxsc",
+						"lib/nfldb/box_scorer.rb"
+					],
+					[
+						"grouphtml",
+						"app/views/dashboard/_build_group.html.haml"
+					],
+					[
+						"genhtml",
+						"app/views/dashboard/_generate.html.haml"
+					],
+					[
+						"linegr",
+						"app/models/lineup_group.rb"
+					],
+					[
+						"linpc",
+						"lib/lineup_point_calculator.rb"
+					],
+					[
+						"capy",
+						"config/initializers/capybara.rb"
+					],
+					[
+						"numb",
+						"lib/numberfire.rb"
+					],
+					[
+						"four",
+						"lib/four_for_four.rb"
+					],
+					[
+						"lines",
+						"app/models/lineup_set.rb"
+					],
+					[
+						"lin",
+						"app/models/lineup.rb"
+					],
+					[
+						"ow",
+						"lib/owned.r"
+					],
+					[
+						"inge",
+						"lib/lineup_generator.rb"
+					],
+					[
+						"lis",
+						"app/models/lineup_set.rb"
+					],
+					[
+						"linese",
+						"app/admin/lineup_set.rb"
+					],
+					[
+						"ling",
+						"lib/lineup_generator.rb"
+					],
+					[
+						"linege",
+						"lib/lineup_generator.rb"
+					],
+					[
+						"ingen",
+						"lib/lineup_generator.rb"
+					],
+					[
+						"fap",
+						"lib/fantasy_pros.rb"
+					],
+					[
+						"linep",
+						"lib/lineup_point_calculator.rb"
+					],
+					[
+						"exppara",
+						"db/migrate/20151218035833_experiment_params.rb"
+					],
+					[
+						"exp",
+						"app/models/experiment.rb"
+					],
+					[
+						"cont",
+						"app/models/contest.rb"
+					],
+					[
+						"fant",
+						"lib/fantasy_pros.rb"
+					],
+					[
+						"contj",
+						"lib/contest.js"
+					],
+					[
+						"table",
+						"app/views/admin/shared/_lineup_table.html.haml"
+					],
+					[
+						"lineupta",
+						"app/views/lineup_sets/_current_group_table.html.haml"
+					],
+					[
+						"lgro",
+						"app/models/lineup_group.rb"
+					],
+					[
+						"owne",
+						"lib/owned.rb"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": false,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 206.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 1955,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+			"/Users/devin/Sites/sports/duel/duel.sublime-workspace",
+			"/Users/devin/Documents/School/2014-1 (Spring)/Math 473/project.sublime-workspace",
+			"/Users/devin/Sites/dfs/dfs.sublime-workspace",
+			"/Users/devin/Documents/Development/gaf.sublime-workspace",
+			"/Users/devin/Sites/duel/duel.sublime-workspace",
+			"/Users/devin/Sites/scout/scommerce/scommerce.sublime-workspace",
+			"/Users/devin/Sites/dpmccabe.github.io/dpm.sublime-workspace"
+		]
+	}
+}
