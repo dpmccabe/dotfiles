@@ -53,12 +53,12 @@
 		".ruby-version",
 		"*.sublime-project"
 	],
-	"font_face": "Input Sans Condensed",
+	"font_face": "Input Mono Narrow",
 	"font_options":
 	[
 		"subpixel_antialias"
 	],
-	"font_size": 10,
+	"font_size": 12,
 	"hide_disclosure_buttons": true,
 	"hot_exit": false,
 	"ignored_packages":
