@@ -1,0 +1,10 @@
+[
+  { "command": "insert_snippet", "args": { "name": "Packages/User/knitr-rnw-chunk.sublime-snippet" } },
+  { "command": "insert_date", "args": { "format": "unix" } },
+  { "command": "next_field" },
+  { "command": "insert_date", "args": { "format": "unix" } },
+  { "command": "next_field" },
+  { "command": "insert_date", "args": { "format": "unix" } },
+  { "command": "move", "args": { "by": "lines", "forward": false } },
+  { "command": "move", "args": { "by": "lines", "forward": false } }
+]

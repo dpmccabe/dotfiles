@@ -1,0 +1,1722 @@
+{
+	"folder_history":
+	[
+		"/Users/devin/carterlab/Code/MSACS/R",
+		"/Users/devin/carterlab/Code/gcnv_msacs_workflow",
+		"/Users/devin/carterlab/Code/absolutev1.4",
+		"/Users/devin/carterlab/Code/gcnv_pon_workflow",
+		"/Users/devin/carterlab/Projects/melanoma_old/code",
+		"/Users/devin/carterlab/Code/MSACS",
+		"/Users/devin/carterlab/Projects/advi",
+		"/Users/devin/Sites/mdb",
+		"/Users/devin/carterlab/Code/AllelicCapseg",
+		"/Users/devin/School/2016-3 (Fall)/PDA (2550)/hw",
+		"/Users/devin/carterlab/Code/gatk",
+		"/Users/devin/carterlab/Projects/msacs_example",
+		"/Users/devin/Desktop/foghorn",
+		"/Users/devin/Desktop/temp_msacs",
+		"/Users/devin/Google Drive/carterlab/Code/MSACS",
+		"/Users/devin/Google Drive/carterlab/Code/AllelicCapseg",
+		"/Users/devin/Desktop/msacs_example",
+		"/Users/devin/Desktop",
+		"/Users/devin/Google Drive/School/2017-1 (Spring)/Stat 215/hw",
+		"/Users/devin/Google Drive/carterlab/Code/MSACS/R",
+		"/Users/devin/Google Drive/carterlab/Code/AllelicCapsegMulti",
+		"/Users/devin/Desktop/fwdfollowingup",
+		"/Users/devin/Google Drive/carterlab/Code/AllelicCapsegMulti/R",
+		"/Users/devin/Google Drive/carterlab/Code/AllelicCapseg/R",
+		"/Users/devin/Desktop/pkbbrainmetnormals",
+		"/Users/devin/Google Drive/School/2017-1 (Spring)/Stat 215/hw/Homework3/data/Part2/plus",
+		"/Users/devin/Google Drive/School/2017-1 (Spring)/Stat 215/hw/Homework3",
+		"/Users/devin/Google Drive/carterlab/Projects/melanoma"
+	],
+	"last_version": 3148,
+	"last_window_id": 499,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 1004.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"sampl",
+						"sample_id"
+					],
+					[
+						"samp",
+						"sample_id"
+					]
+				]
+			},
+			"build_system_choices":
+			[
+				[
+					[
+						[
+							"Packages/LaTeXing/LaTeX.sublime-build",
+							""
+						],
+						[
+							"Packages/LaTeXing/LaTeX.sublime-build",
+							"Clean up Files"
+						],
+						[
+							"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+							""
+						],
+						[
+							"Packages/User/LaTeX.sublime-build",
+							""
+						],
+						[
+							"Packages/User/LaTeX.sublime-build",
+							"Primary Quick Build"
+						],
+						[
+							"Packages/User/LaTeX.sublime-build",
+							"Choose Quick Build"
+						],
+						[
+							"Packages/User/LaTeX.sublime-build",
+							"Clean up Files"
+						]
+					],
+					[
+						"Packages/User/LaTeX.sublime-build",
+						""
+					]
+				]
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 313.0,
+				"last_filter": "theme",
+				"selected_items":
+				[
+					[
+						"theme",
+						"UI: Select Color Scheme"
+					],
+					[
+						"spaces",
+						"Indentation: Convert to Spaces"
+					],
+					[
+						"space",
+						"Indentation: Convert to Spaces"
+					],
+					[
+						"uni",
+						"Permute Lines: Unique"
+					],
+					[
+						"sor",
+						"Sort Lines"
+					],
+					[
+						"color ",
+						"UI: Select Color Scheme"
+					],
+					[
+						"colo",
+						"UI: Select Color Scheme"
+					],
+					[
+						"scheme",
+						"UI: Select Color Scheme"
+					],
+					[
+						"uniq",
+						"Permute Lines: Unique"
+					],
+					[
+						"update",
+						"Package Control: Upgrade/Overwrite All Packages"
+					],
+					[
+						"indent",
+						"Indentation: Reindent Lines"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"instal",
+						"Package Control: Install Package"
+					],
+					[
+						"package",
+						"Package Control: Add Repository"
+					],
+					[
+						"isntal",
+						"Package Control: Install Package"
+					],
+					[
+						"enable",
+						"Package Control: Enable Package"
+					],
+					[
+						"R-bo",
+						"Preferences: R-Box Key Bindings"
+					],
+					[
+						"pack",
+						"Package Control: List Packages"
+					],
+					[
+						"packag",
+						"Package Control: Enable Package"
+					],
+					[
+						"remove pac",
+						"Package Control: Remove Package"
+					],
+					[
+						"build",
+						"Build With: LaTeX"
+					],
+					[
+						"clean",
+						"LaTeXing: Clean Temporary Output Dictionary"
+					],
+					[
+						"sort",
+						"Sort Lines"
+					],
+					[
+						"trim",
+						"Trimmer: Trim leading AND trailing whitespace."
+					],
+					[
+						"so",
+						"Sort Lines"
+					],
+					[
+						"color",
+						"UI: Select Color Scheme"
+					],
+					[
+						"R",
+						"Set Syntax: R"
+					],
+					[
+						"reind",
+						"Indentation: Reindent Lines"
+					],
+					[
+						"s",
+						"Sort Lines"
+					]
+				],
+				"width": 729.0
+			},
+			"console":
+			{
+				"height": 128.0,
+				"history":
+				[
+					"r_docs",
+					"rdocs"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/Users/devin/carterlab/Projects/meningioma_final/data/msacs.seg",
+				"/Users/devin/carterlab/Projects/meningioma_final/scripts/sync.sh",
+				"/Users/devin/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+				"/Users/devin/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+				"/Users/devin/Desktop/runs.csv",
+				"/Users/devin/carterlab/Projects/meningioma_final/scripts/MSACS.R",
+				"/Users/devin/carterlab/Code/gcnv_msacs_workflow/scripts/setup.R",
+				"/Users/devin/carterlab/Code/gcnv_msacs_workflow/scripts/analysis/agg_msacs_segs.R",
+				"/Users/devin/carterlab/Code/gcnv_msacs_workflow/scripts/hets/combine_hets.R",
+				"/Users/devin/carterlab/Code/gcnv_msacs_workflow/scripts/MSACS/MSACS_submit.R",
+				"/Users/devin/carterlab/Code/gcnv_msacs_workflow/scripts/MSACS/MSACS.R",
+				"/Users/devin/carterlab/Code/gcnv_msacs_workflow/scripts/MSACS/MSACS.sh",
+				"/Users/devin/carterlab/Code/gcnv_msacs_workflow/scripts/coverage/SparkGenomeReadCounts_submit.R",
+				"/Users/devin/carterlab/Code/gcnv_msacs_workflow/scripts/vars.R",
+				"/Users/devin/carterlab/Code/gcnv_msacs_workflow/scripts/coverage/SparkGenomeReadCounts.sh",
+				"/Users/devin/carterlab/Code/gcnv_msacs_workflow/scripts/hets/filter_hets.R",
+				"/Users/devin/carterlab/Code/gcnv_msacs_workflow/scripts/coverage/fix_sgrc_output.R",
+				"/Users/devin/carterlab/Code/gcnv_msacs_workflow/scripts/coverage/GermlineCNVCaller.sh",
+				"/Users/devin/carterlab/Code/gcnv_msacs_workflow/scripts/coverage/CombineReadCounts_submit.R",
+				"/Users/devin/carterlab/Code/gcnv_msacs_workflow/scripts/hets/CollectAllelicCounts_submit.R",
+				"/Users/devin/carterlab/Code/gcnv_msacs_workflow/scripts/coverage/CalculateTargetCoverage_submit.R",
+				"/Users/devin/carterlab/Code/gcnv_msacs_workflow/scripts/coverage/CombineNormalReadCounts_submit.R",
+				"/Users/devin/carterlab/Code/gcnv_msacs_workflow/scripts/coverage/GermlineCNVCaller_submit.R",
+				"/Users/devin/carterlab/Code/gcnv_msacs_workflow/scripts/genotyping/TargetCoverageSexGenotyper_submit.R",
+				"/Users/devin/carterlab/Code/gcnv_msacs_workflow/README.md",
+				"/Users/devin/carterlab/Code/gcnv_msacs_workflow/scripts/hets/CollectAllelicCounts.sh",
+				"/Users/devin/carterlab/Code/gcnv_msacs_workflow/scripts/coverage/CombineReadCounts.sh",
+				"/Users/devin/carterlab/Code/MSACS/R/export_allelic_seg_summaries.R",
+				"/Users/devin/carterlab/Code/MSACS/R/compute_grid_posteriors_on_allelic_copyratio.R",
+				"/Users/devin/carterlab/Code/MSACS/R/sample_from_allelic_seg_cluster_model.R",
+				"/Users/devin/carterlab/Code/MSACS/R/fit_modes_SCNA_models.R",
+				"/Users/devin/carterlab/Code/MSACS/R/densities.R",
+				"/Users/devin/carterlab/Code/MSACS/R/fit_tcr.R",
+				"/Users/devin/carterlab/Code/MSACS/DESCRIPTION",
+				"/Users/devin/carterlab/Code/MSACS/R/load_data.R",
+				"/Users/devin/carterlab/Code/MSACS/R/MSACS.R",
+				"/Users/devin/carterlab/Code/gcnv_msacs_workflow/.gitignore",
+				"/Users/devin/carterlab/Code/gcnv_msacs_workflow/scripts/genotyping/check_genotypes.R",
+				"/Users/devin/carterlab/Code/gcnv_msacs_workflow/scripts/genotyping/saturate_sex_genotypes.R",
+				"/Users/devin/carterlab/Code/gcnv_msacs_workflow/data/samples.tsv",
+				"/Users/devin/carterlab/Code/gcnv_msacs_workflow/scripts/MSACS/msacs_submit.R",
+				"/Users/devin/carterlab/Code/gcnv_msacs_workflow/scripts/MSACS/msacs_run.R",
+				"/Users/devin/carterlab/Code/gcnv_msacs_workflow/scripts/MSACS/msacs_run.sh",
+				"/Users/devin/carterlab/Code/gcnv_msacs_workflow/scripts/genotyping/TargetCoverageSexGenotyper.sh",
+				"/Users/devin/carterlab/Code/gcnv_msacs_workflow/scripts/post/agg_msacs_segs.R",
+				"/Users/devin/carterlab/Code/gcnv_msacs_workflow/scripts/genotyping/filter_par.R",
+				"/Users/devin/carterlab/Code/gcnv_msacs_workflow/scripts/coverage/filter_par.R",
+				"/Users/devin/carterlab/Code/gcnv_msacs_workflow/scripts/msacs/msacs_submit.R",
+				"/Users/devin/carterlab/Code/gcnv_msacs_workflow/support/resource_file_locations.sh",
+				"/Users/devin/carterlab/Code/gcnv_msacs_workflow/support/ice.no_MT_gcnv.250_pad.targets",
+				"/Users/devin/carterlab/Code/gcnv_msacs_workflow/scripts/resource_file_paths.sh",
+				"/Users/devin/carterlab/Projects/mixing/scripts/sync.sh",
+				"/Users/devin/carterlab/Code/MSACS/R/genome_plots.R",
+				"/Users/devin/carterlab/Code/MSACS/R/definitions.R",
+				"/Users/devin/carterlab/Code/MSACS/R/mscbs_wrapper.R",
+				"/Users/devin/carterlab/Code/MSACS/R/minimal_MSCBS.R",
+				"/Users/devin/carterlab/Code/MSACS/R/MS_plot_mergers.R",
+				"/Users/devin/carterlab/Code/MSACS/R/cbs_wrapper.R",
+				"/Users/devin/carterlab/Code/MSACS/R/modcmp_seg_merge.R",
+				"/Users/devin/carterlab/Projects/melanoma/data_gcnv-09.07/acs2.tsv",
+				"/Users/devin/carterlab/Code/MSACS/NAMESPACE",
+				"/Users/devin/carterlab/Code/MSACS/R/MS_Split.R",
+				"/Users/devin/carterlab/Projects/Boland_PrAn/scripts/sync.sh",
+				"/Users/devin/carterlab/Code/MSACS/R/MS_fit_joint_seg_f_cond_consensus_SNP_GTs.R",
+				"/Users/devin/carterlab/Code/MSACS/R/MS_joint_opt_seg_f_and_consensus_SNP_GTs.R",
+				"/Users/devin/Sites/mdb/Gemfile",
+				"/Users/devin/Sites/mdb/secrets/production.rb",
+				"/Users/devin/Sites/mdb/secrets/development.rb",
+				"/Users/devin/Sites/mdb/filenames.rb",
+				"/Users/devin/Sites/mdb/config.ru",
+				"/Users/devin/.gemrc",
+				"/Users/devin/.zshrc",
+				"/Users/devin/Sites/mdb/Procfile",
+				"/Users/devin/Sites/mdb/mongoid.yml",
+				"/Users/devin/carterlab/Code/MSACS/R/fit_object.R",
+				"/Users/devin/carterlab/Code/MSACS/R/exporter.R",
+				"/Users/devin/carterlab/Code/MSACS/R/segmenter.R",
+				"/Users/devin/carterlab/Code/MSACS/R/models.R",
+				"/Users/devin/carterlab/Code/MSACS/README.md",
+				"/Users/devin/carterlab/Code/MSACS/R/MS_AllelicCapseg.R",
+				"/Users/devin/carterlab/Code/MSACS/.gitignore",
+				"/Users/devin/carterlab/Code/MSACS/R/MS_compute_ACS_f_model_average_posteriors.R",
+				"/Users/devin/carterlab/Code/MSACS/src/beta_prime_distribution.cpp",
+				"/Users/devin/carterlab/Code/MSACS/R/plot_aCR_segs.R",
+				"/Users/devin/carterlab/Projects/melanoma/scripts/sync.sh",
+				"/Users/devin/Desktop/temp.R",
+				"/Users/devin/carterlab/Code/MSACS/R/MSACS.r",
+				"/Users/devin/carterlab/Code/MSACS/man/MSACS.Rd",
+				"/Users/devin/carterlab/Code/MSACS/R/detect_tiny_clones.R",
+				"/Users/devin/carterlab/Code/MSACS/R/vargrid_SCNA_dens_functions.R",
+				"/Users/devin/carterlab/Code/MSACS/R/import_MAF_data.R",
+				"/Users/devin/carterlab/Code/MSACS/R/cluster_SSNV_CCFs.R",
+				"/Users/devin/carterlab/Code/MSACS/R/SCNA_model_spec.R",
+				"/Users/devin/carterlab/Code/MSACS/R/test_model.R",
+				"/Users/devin/carterlab/Code/MSACS/R/run_MSCBS.R",
+				"/Users/devin/carterlab/Code/MSACS/R/license.R",
+				"/Users/devin/carterlab/Code/MSACS/R/fit_object.r",
+				"/Users/devin/carterlab/Code/MSACS/R/definitions.r",
+				"/Users/devin/carterlab/Code/MSACS/R/MS_error_model.R",
+				"/Users/devin/carterlab/Code/MSACS/R/capseg_error_model.R",
+				"/Users/devin/carterlab/Code/MSACS/R/capture_model_fit.R",
+				"/Users/devin/carterlab/Code/MSACS/R/AllelicCapseg.R",
+				"/Users/devin/carterlab/Code/MSACS/R/exporter.r",
+				"/Users/devin/carterlab/Code/MSACS/R/genome_plots.r",
+				"/Users/devin/carterlab/Code/MSACS/R/mscbs_wrapper.r",
+				"/Users/devin/carterlab/Code/MSACS/R/models.r",
+				"/Users/devin/carterlab/Code/MSACS/R/MS_LRT_seg_merge.R",
+				"/Users/devin/carterlab/Projects/meningioma/scripts/sync.sh",
+				"/Users/devin/.R/Makevars",
+				"/Users/devin/carterlab/Code/MSACS/R/load_data.r",
+				"/Users/devin/carterlab/Code/MSACS/R/cache_me.r",
+				"/Users/devin/carterlab/Code/MSACS/R/fit_tcr.r",
+				"/Users/devin/carterlab/Code/MSACS/R/cbs_wrapper.r",
+				"/Users/devin/carterlab/Projects/liquid_wgs_ulp/scripts/sync.sh",
+				"/Users/devin/Desktop/temp.r",
+				"/Users/devin/Desktop/msacs_gcnv/scripts/run_msacs_gcnv.R",
+				"/Users/devin/Desktop/HD_gender.txt",
+				"/Users/devin/School/2014-1 (Spring)/Math 473/paper.tex",
+				"/Users/devin/Desktop/10417_1.ctDNA.QC.FC15883359.correctedDepth.txt",
+				"/Users/devin/School/2016-3 (Fall)/PDA (2550)/hw/hw05/hw5.tex",
+				"/Users/devin/Documents/tex/hwtemplate.sty",
+				"/Users/devin/School/2016-3 (Fall)/PDA (2550)/hw/hw05/hw5.Rnw",
+				"/Users/devin/carterlab/Projects/meningioma/data_gcnv/acs.tsv",
+				"/Users/devin/Desktop/16p13-13.tsv",
+				"/Users/devin/carterlab/Code/MSACS/R/MS_fit_joint_seg_f.R",
+				"/Users/devin/carterlab/Projects/meningioma/data-06.02b/acs.tsv",
+				"/Users/devin/Desktop/t.r",
+				"/Users/devin/Desktop/gcnv.txt"
+			],
+			"find":
+			{
+				"height": 37.0
+			},
+			"find_in_files":
+			{
+				"height": 95.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 22.0
+			},
+			"input":
+			{
+				"height": 34.0
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 102.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"output.mdpopups":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 40.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"msa",
+						"MSACS.R"
+					],
+					[
+						"msacs",
+						"scripts/MSACS/MSACS.R"
+					],
+					[
+						"fix",
+						"scripts/coverage/fix_sgrc_output.R"
+					],
+					[
+						"agg",
+						"scripts/analysis/agg_msacs_segs.R"
+					],
+					[
+						"combine",
+						"scripts/hets/combine_hets.R"
+					],
+					[
+						"set",
+						"scripts/setup.R"
+					],
+					[
+						"spar",
+						"scripts/coverage/SparkGenomeReadCounts.sh"
+					],
+					[
+						"coll",
+						"scripts/hets/CollectAllelicCounts_submit.R"
+					],
+					[
+						"readm",
+						"README.md"
+					],
+					[
+						"read",
+						"scripts/coverage/CombineNormalReadCounts_submit.R"
+					],
+					[
+						"tar",
+						"scripts/genotyping/TargetCoverageSexGenotyper_submit.R"
+					],
+					[
+						"germ",
+						"scripts/coverage/GermlineCNVCaller_submit.R"
+					],
+					[
+						"comb",
+						"scripts/coverage/CombineReadCounts.sh"
+					],
+					[
+						"gem",
+						"scripts/coverage/GermlineCNVCaller.sh"
+					],
+					[
+						"var",
+						"scripts/vars.R"
+					],
+					[
+						"calc",
+						"scripts/coverage/CalculateTargetCoverage_submit.R"
+					],
+					[
+						"rea",
+						"README.md"
+					],
+					[
+						"filt",
+						"scripts/hets/filter_hets.R"
+					],
+					[
+						"mod",
+						"R/models.R"
+					],
+					[
+						"all",
+						"R/export_allelic_seg_summaries.R"
+					],
+					[
+						"alle",
+						"R/compute_grid_posteriors_on_allelic_copyratio.R"
+					],
+					[
+						"exp",
+						"R/exporter.R"
+					],
+					[
+						"fit",
+						"R/fit_tcr.R"
+					],
+					[
+						"load",
+						"R/load_data.R"
+					],
+					[
+						"merge",
+						"R/MS_plot_mergers.R"
+					],
+					[
+						"def",
+						"R/definitions.R"
+					],
+					[
+						"segm",
+						"R/segmenter.R"
+					],
+					[
+						"des",
+						"DESCRIPTION"
+					],
+					[
+						"filter",
+						"scripts/hets/filter_hets.R"
+					],
+					[
+						"git",
+						".gitignore"
+					],
+					[
+						"com",
+						"scripts/common.R"
+					],
+					[
+						"nam",
+						"NAMESPACE"
+					],
+					[
+						"de",
+						"DESCRIPTION"
+					],
+					[
+						"nae",
+						"NAMESPACE"
+					],
+					[
+						"msc",
+						"R/mscbs_wrapper.R"
+					],
+					[
+						"cbs",
+						"R/cbs_wrapper.R"
+					],
+					[
+						"msplot",
+						"R/MS_plot_mergers.R"
+					],
+					[
+						"mspl",
+						"R/MS_Split.R"
+					],
+					[
+						"cmp",
+						"R/modcmp_seg_merge.R"
+					],
+					[
+						"lod",
+						"R/load_data.R"
+					],
+					[
+						"mer",
+						"R/modcmp_seg_merge.R"
+					],
+					[
+						"expo",
+						"R/export_allelic_seg_summaries.R"
+					],
+					[
+						"seg",
+						"R/segmenter.R"
+					],
+					[
+						"ms",
+						"R/MSACS.R"
+					],
+					[
+						"modc",
+						"R/modcmp_seg_merge.R"
+					],
+					[
+						"plot",
+						"R/MS_plot_mergers.R"
+					],
+					[
+						"ex",
+						"R/export_allelic_seg_summaries.R"
+					],
+					[
+						"fitt",
+						"R/fit_tcr.R"
+					],
+					[
+						"mscbs",
+						"R/mscbs_wrapper.R"
+					],
+					[
+						"geno",
+						"R/genome_plots.R"
+					],
+					[
+						"gen",
+						"R/genome_plots.R"
+					],
+					[
+						"name",
+						"NAMESPACE"
+					],
+					[
+						"giti",
+						".gitignore"
+					],
+					[
+						"dens",
+						"R/densities.R"
+					],
+					[
+						"d",
+						"DESCRIPTION"
+					],
+					[
+						"na",
+						"NAMESPACE"
+					],
+					[
+						"mscb",
+						"R/mscbs_wrapper.R"
+					],
+					[
+						"model",
+						"R/models.R"
+					],
+					[
+						"export",
+						"R/export_allelic_seg_summaries.R"
+					],
+					[
+						"defin",
+						"R/definitions.R"
+					],
+					[
+						"msac",
+						"R/MSACS.r"
+					],
+					[
+						"tcr",
+						"R/fit_tcr.r"
+					],
+					[
+						"fitob",
+						"R/fit_object.r"
+					],
+					[
+						"desc",
+						"DESCRIPTION"
+					],
+					[
+						"capseg",
+						"R/capseg_error_model.R"
+					],
+					[
+						"cache",
+						"R/cache_me.r"
+					],
+					[
+						"genom",
+						"R/genome_plots.r"
+					],
+					[
+						"ave",
+						"R/MS_compute_ACS_f_model_average_posteriors.R"
+					],
+					[
+						"grid",
+						"R/compute_grid_posteriors_on_allelic_copyratio.R"
+					],
+					[
+						"mode",
+						"R/models.r"
+					],
+					[
+						"genome",
+						"R/genome_plots.r"
+					],
+					[
+						"geom",
+						"R/genome_plots.r"
+					],
+					[
+						"plotmer",
+						"R/MS_plot_mergers.R"
+					],
+					[
+						"fittc",
+						"R/fit_tcr.r"
+					],
+					[
+						"mo",
+						"R/models.r"
+					],
+					[
+						"ms_fit_joint_seg_f_cond_consensus_snp_gts",
+						"R/MS_fit_joint_seg_f_cond_consensus_SNP_GTs.R"
+					],
+					[
+						"geo",
+						"R/genome_plots.r"
+					],
+					[
+						"joint",
+						"R/MS_fit_joint_seg_f.R"
+					],
+					[
+						"",
+						"R/detect_tiny_clones.R"
+					],
+					[
+						"merg",
+						"R/MS_LRT_seg_merge.R"
+					],
+					[
+						"cach",
+						"R/cache_me.r"
+					],
+					[
+						"msfitj",
+						"R/MS_fit_joint_seg_f.R"
+					],
+					[
+						"fito",
+						"R/fit_object.r"
+					],
+					[
+						"data",
+						"R/load_data.r"
+					],
+					[
+						"mserr",
+						"R/MS_error_model.R"
+					],
+					[
+						"wrap",
+						"R/legacy_wrapper.r"
+					],
+					[
+						"lrt",
+						"R/MS_LRT_seg_merge.R"
+					],
+					[
+						"msall",
+						"R/MS_AllelicCapseg.R"
+					],
+					[
+						"file",
+						"R/file_parsers.R"
+					],
+					[
+						"filep",
+						"R/file_parsers.R"
+					],
+					[
+						"msalli",
+						"R/MS_AllelicCapseg.R"
+					],
+					[
+						"parse",
+						"R/file_parsers.R"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 375.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"",
+						"AllelicCapseg"
+					]
+				],
+				"width": 530.0
+			},
+			"show_minimap": false,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 339.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 1680.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"sampl",
+						"sample_id"
+					],
+					[
+						"samp",
+						"sample_id"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/Users/devin/carterlab/Projects/meningioma_final/scripts/sync.sh",
+					"settings":
+					{
+						"buffer_size": 507,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+				[
+					[
+						[
+							"Packages/LaTeXing/LaTeX.sublime-build",
+							""
+						],
+						[
+							"Packages/LaTeXing/LaTeX.sublime-build",
+							"Clean up Files"
+						],
+						[
+							"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+							""
+						],
+						[
+							"Packages/User/LaTeX.sublime-build",
+							""
+						],
+						[
+							"Packages/User/LaTeX.sublime-build",
+							"Primary Quick Build"
+						],
+						[
+							"Packages/User/LaTeX.sublime-build",
+							"Choose Quick Build"
+						],
+						[
+							"Packages/User/LaTeX.sublime-build",
+							"Clean up Files"
+						]
+					],
+					[
+						"Packages/User/LaTeX.sublime-build",
+						""
+					]
+				]
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 313.0,
+				"last_filter": "theme",
+				"selected_items":
+				[
+					[
+						"theme",
+						"UI: Select Color Scheme"
+					],
+					[
+						"spaces",
+						"Indentation: Convert to Spaces"
+					],
+					[
+						"space",
+						"Indentation: Convert to Spaces"
+					],
+					[
+						"uni",
+						"Permute Lines: Unique"
+					],
+					[
+						"sor",
+						"Sort Lines"
+					],
+					[
+						"color ",
+						"UI: Select Color Scheme"
+					],
+					[
+						"colo",
+						"UI: Select Color Scheme"
+					],
+					[
+						"scheme",
+						"UI: Select Color Scheme"
+					],
+					[
+						"uniq",
+						"Permute Lines: Unique"
+					],
+					[
+						"update",
+						"Package Control: Upgrade/Overwrite All Packages"
+					],
+					[
+						"indent",
+						"Indentation: Reindent Lines"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"instal",
+						"Package Control: Install Package"
+					],
+					[
+						"package",
+						"Package Control: Add Repository"
+					],
+					[
+						"isntal",
+						"Package Control: Install Package"
+					],
+					[
+						"enable",
+						"Package Control: Enable Package"
+					],
+					[
+						"R-bo",
+						"Preferences: R-Box Key Bindings"
+					],
+					[
+						"pack",
+						"Package Control: List Packages"
+					],
+					[
+						"packag",
+						"Package Control: Enable Package"
+					],
+					[
+						"remove pac",
+						"Package Control: Remove Package"
+					],
+					[
+						"build",
+						"Build With: LaTeX"
+					],
+					[
+						"clean",
+						"LaTeXing: Clean Temporary Output Dictionary"
+					],
+					[
+						"sort",
+						"Sort Lines"
+					],
+					[
+						"trim",
+						"Trimmer: Trim leading AND trailing whitespace."
+					],
+					[
+						"so",
+						"Sort Lines"
+					],
+					[
+						"color",
+						"UI: Select Color Scheme"
+					],
+					[
+						"R",
+						"Set Syntax: R"
+					],
+					[
+						"reind",
+						"Indentation: Reindent Lines"
+					],
+					[
+						"s",
+						"Sort Lines"
+					]
+				],
+				"width": 729.0
+			},
+			"console":
+			{
+				"height": 128.0,
+				"history":
+				[
+					"r_docs",
+					"rdocs"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/Users/devin/carterlab/Projects/meningioma_final/data/msacs.seg",
+				"/Users/devin/carterlab/Projects/meningioma_final/scripts/sync.sh",
+				"/Users/devin/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+				"/Users/devin/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+				"/Users/devin/Desktop/runs.csv",
+				"/Users/devin/carterlab/Projects/meningioma_final/scripts/MSACS.R",
+				"/Users/devin/carterlab/Code/gcnv_msacs_workflow/scripts/setup.R",
+				"/Users/devin/carterlab/Code/gcnv_msacs_workflow/scripts/analysis/agg_msacs_segs.R",
+				"/Users/devin/carterlab/Code/gcnv_msacs_workflow/scripts/hets/combine_hets.R",
+				"/Users/devin/carterlab/Code/gcnv_msacs_workflow/scripts/MSACS/MSACS_submit.R",
+				"/Users/devin/carterlab/Code/gcnv_msacs_workflow/scripts/MSACS/MSACS.R",
+				"/Users/devin/carterlab/Code/gcnv_msacs_workflow/scripts/MSACS/MSACS.sh",
+				"/Users/devin/carterlab/Code/gcnv_msacs_workflow/scripts/coverage/SparkGenomeReadCounts_submit.R",
+				"/Users/devin/carterlab/Code/gcnv_msacs_workflow/scripts/vars.R",
+				"/Users/devin/carterlab/Code/gcnv_msacs_workflow/scripts/coverage/SparkGenomeReadCounts.sh",
+				"/Users/devin/carterlab/Code/gcnv_msacs_workflow/scripts/hets/filter_hets.R",
+				"/Users/devin/carterlab/Code/gcnv_msacs_workflow/scripts/coverage/fix_sgrc_output.R",
+				"/Users/devin/carterlab/Code/gcnv_msacs_workflow/scripts/coverage/GermlineCNVCaller.sh",
+				"/Users/devin/carterlab/Code/gcnv_msacs_workflow/scripts/coverage/CombineReadCounts_submit.R",
+				"/Users/devin/carterlab/Code/gcnv_msacs_workflow/scripts/hets/CollectAllelicCounts_submit.R",
+				"/Users/devin/carterlab/Code/gcnv_msacs_workflow/scripts/coverage/CalculateTargetCoverage_submit.R",
+				"/Users/devin/carterlab/Code/gcnv_msacs_workflow/scripts/coverage/CombineNormalReadCounts_submit.R",
+				"/Users/devin/carterlab/Code/gcnv_msacs_workflow/scripts/coverage/GermlineCNVCaller_submit.R",
+				"/Users/devin/carterlab/Code/gcnv_msacs_workflow/scripts/genotyping/TargetCoverageSexGenotyper_submit.R",
+				"/Users/devin/carterlab/Code/gcnv_msacs_workflow/README.md",
+				"/Users/devin/carterlab/Code/gcnv_msacs_workflow/scripts/hets/CollectAllelicCounts.sh",
+				"/Users/devin/carterlab/Code/gcnv_msacs_workflow/scripts/coverage/CombineReadCounts.sh",
+				"/Users/devin/carterlab/Code/MSACS/R/export_allelic_seg_summaries.R",
+				"/Users/devin/carterlab/Code/MSACS/R/compute_grid_posteriors_on_allelic_copyratio.R",
+				"/Users/devin/carterlab/Code/MSACS/R/sample_from_allelic_seg_cluster_model.R",
+				"/Users/devin/carterlab/Code/MSACS/R/fit_modes_SCNA_models.R",
+				"/Users/devin/carterlab/Code/MSACS/R/densities.R",
+				"/Users/devin/carterlab/Code/MSACS/R/fit_tcr.R",
+				"/Users/devin/carterlab/Code/MSACS/DESCRIPTION",
+				"/Users/devin/carterlab/Code/MSACS/R/load_data.R",
+				"/Users/devin/carterlab/Code/MSACS/R/MSACS.R",
+				"/Users/devin/carterlab/Code/gcnv_msacs_workflow/.gitignore",
+				"/Users/devin/carterlab/Code/gcnv_msacs_workflow/scripts/genotyping/check_genotypes.R",
+				"/Users/devin/carterlab/Code/gcnv_msacs_workflow/scripts/genotyping/saturate_sex_genotypes.R",
+				"/Users/devin/carterlab/Code/gcnv_msacs_workflow/data/samples.tsv",
+				"/Users/devin/carterlab/Code/gcnv_msacs_workflow/scripts/MSACS/msacs_submit.R",
+				"/Users/devin/carterlab/Code/gcnv_msacs_workflow/scripts/MSACS/msacs_run.R",
+				"/Users/devin/carterlab/Code/gcnv_msacs_workflow/scripts/MSACS/msacs_run.sh",
+				"/Users/devin/carterlab/Code/gcnv_msacs_workflow/scripts/genotyping/TargetCoverageSexGenotyper.sh",
+				"/Users/devin/carterlab/Code/gcnv_msacs_workflow/scripts/post/agg_msacs_segs.R",
+				"/Users/devin/carterlab/Code/gcnv_msacs_workflow/scripts/genotyping/filter_par.R",
+				"/Users/devin/carterlab/Code/gcnv_msacs_workflow/scripts/coverage/filter_par.R",
+				"/Users/devin/carterlab/Code/gcnv_msacs_workflow/scripts/msacs/msacs_submit.R",
+				"/Users/devin/carterlab/Code/gcnv_msacs_workflow/support/resource_file_locations.sh",
+				"/Users/devin/carterlab/Code/gcnv_msacs_workflow/support/ice.no_MT_gcnv.250_pad.targets",
+				"/Users/devin/carterlab/Code/gcnv_msacs_workflow/scripts/resource_file_paths.sh",
+				"/Users/devin/carterlab/Projects/mixing/scripts/sync.sh",
+				"/Users/devin/carterlab/Code/MSACS/R/genome_plots.R",
+				"/Users/devin/carterlab/Code/MSACS/R/definitions.R",
+				"/Users/devin/carterlab/Code/MSACS/R/mscbs_wrapper.R",
+				"/Users/devin/carterlab/Code/MSACS/R/minimal_MSCBS.R",
+				"/Users/devin/carterlab/Code/MSACS/R/MS_plot_mergers.R",
+				"/Users/devin/carterlab/Code/MSACS/R/cbs_wrapper.R",
+				"/Users/devin/carterlab/Code/MSACS/R/modcmp_seg_merge.R",
+				"/Users/devin/carterlab/Projects/melanoma/data_gcnv-09.07/acs2.tsv",
+				"/Users/devin/carterlab/Code/MSACS/NAMESPACE",
+				"/Users/devin/carterlab/Code/MSACS/R/MS_Split.R",
+				"/Users/devin/carterlab/Projects/Boland_PrAn/scripts/sync.sh",
+				"/Users/devin/carterlab/Code/MSACS/R/MS_fit_joint_seg_f_cond_consensus_SNP_GTs.R",
+				"/Users/devin/carterlab/Code/MSACS/R/MS_joint_opt_seg_f_and_consensus_SNP_GTs.R",
+				"/Users/devin/Sites/mdb/Gemfile",
+				"/Users/devin/Sites/mdb/secrets/production.rb",
+				"/Users/devin/Sites/mdb/secrets/development.rb",
+				"/Users/devin/Sites/mdb/filenames.rb",
+				"/Users/devin/Sites/mdb/config.ru",
+				"/Users/devin/.gemrc",
+				"/Users/devin/.zshrc",
+				"/Users/devin/Sites/mdb/Procfile",
+				"/Users/devin/Sites/mdb/mongoid.yml",
+				"/Users/devin/carterlab/Code/MSACS/R/fit_object.R",
+				"/Users/devin/carterlab/Code/MSACS/R/exporter.R",
+				"/Users/devin/carterlab/Code/MSACS/R/segmenter.R",
+				"/Users/devin/carterlab/Code/MSACS/R/models.R",
+				"/Users/devin/carterlab/Code/MSACS/README.md",
+				"/Users/devin/carterlab/Code/MSACS/R/MS_AllelicCapseg.R",
+				"/Users/devin/carterlab/Code/MSACS/.gitignore",
+				"/Users/devin/carterlab/Code/MSACS/R/MS_compute_ACS_f_model_average_posteriors.R",
+				"/Users/devin/carterlab/Code/MSACS/src/beta_prime_distribution.cpp",
+				"/Users/devin/carterlab/Code/MSACS/R/plot_aCR_segs.R",
+				"/Users/devin/carterlab/Projects/melanoma/scripts/sync.sh",
+				"/Users/devin/Desktop/temp.R",
+				"/Users/devin/carterlab/Code/MSACS/R/MSACS.r",
+				"/Users/devin/carterlab/Code/MSACS/man/MSACS.Rd",
+				"/Users/devin/carterlab/Code/MSACS/R/detect_tiny_clones.R",
+				"/Users/devin/carterlab/Code/MSACS/R/vargrid_SCNA_dens_functions.R",
+				"/Users/devin/carterlab/Code/MSACS/R/import_MAF_data.R",
+				"/Users/devin/carterlab/Code/MSACS/R/cluster_SSNV_CCFs.R",
+				"/Users/devin/carterlab/Code/MSACS/R/SCNA_model_spec.R",
+				"/Users/devin/carterlab/Code/MSACS/R/test_model.R",
+				"/Users/devin/carterlab/Code/MSACS/R/run_MSCBS.R",
+				"/Users/devin/carterlab/Code/MSACS/R/license.R",
+				"/Users/devin/carterlab/Code/MSACS/R/fit_object.r",
+				"/Users/devin/carterlab/Code/MSACS/R/definitions.r",
+				"/Users/devin/carterlab/Code/MSACS/R/MS_error_model.R",
+				"/Users/devin/carterlab/Code/MSACS/R/capseg_error_model.R",
+				"/Users/devin/carterlab/Code/MSACS/R/capture_model_fit.R",
+				"/Users/devin/carterlab/Code/MSACS/R/AllelicCapseg.R",
+				"/Users/devin/carterlab/Code/MSACS/R/exporter.r",
+				"/Users/devin/carterlab/Code/MSACS/R/genome_plots.r",
+				"/Users/devin/carterlab/Code/MSACS/R/mscbs_wrapper.r",
+				"/Users/devin/carterlab/Code/MSACS/R/models.r",
+				"/Users/devin/carterlab/Code/MSACS/R/MS_LRT_seg_merge.R",
+				"/Users/devin/carterlab/Projects/meningioma/scripts/sync.sh",
+				"/Users/devin/.R/Makevars",
+				"/Users/devin/carterlab/Code/MSACS/R/load_data.r",
+				"/Users/devin/carterlab/Code/MSACS/R/cache_me.r",
+				"/Users/devin/carterlab/Code/MSACS/R/fit_tcr.r",
+				"/Users/devin/carterlab/Code/MSACS/R/cbs_wrapper.r",
+				"/Users/devin/carterlab/Projects/liquid_wgs_ulp/scripts/sync.sh",
+				"/Users/devin/Desktop/temp.r",
+				"/Users/devin/Desktop/msacs_gcnv/scripts/run_msacs_gcnv.R",
+				"/Users/devin/Desktop/HD_gender.txt",
+				"/Users/devin/School/2014-1 (Spring)/Math 473/paper.tex",
+				"/Users/devin/Desktop/10417_1.ctDNA.QC.FC15883359.correctedDepth.txt",
+				"/Users/devin/School/2016-3 (Fall)/PDA (2550)/hw/hw05/hw5.tex",
+				"/Users/devin/Documents/tex/hwtemplate.sty",
+				"/Users/devin/School/2016-3 (Fall)/PDA (2550)/hw/hw05/hw5.Rnw",
+				"/Users/devin/carterlab/Projects/meningioma/data_gcnv/acs.tsv",
+				"/Users/devin/Desktop/16p13-13.tsv",
+				"/Users/devin/carterlab/Code/MSACS/R/MS_fit_joint_seg_f.R",
+				"/Users/devin/carterlab/Projects/meningioma/data-06.02b/acs.tsv",
+				"/Users/devin/Desktop/t.r",
+				"/Users/devin/Desktop/gcnv.txt"
+			],
+			"find":
+			{
+				"height": 37.0
+			},
+			"find_in_files":
+			{
+				"height": 95.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"groups":
+			[
+				{
+					"selected": 0,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/Users/devin/carterlab/Projects/meningioma_final/scripts/sync.sh",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 507,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										506,
+										506
+									]
+								],
+								"settings":
+								{
+									"git_gutter_is_enabled": false,
+									"syntax": "Packages/ShellScript/Bash.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 22.0
+			},
+			"input":
+			{
+				"height": 34.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 102.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"output.mdpopups":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"position": "0 0 1 1680 1026 0 0 1680 1027 ",
+			"project": "",
+			"replace":
+			{
+				"height": 40.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"msa",
+						"MSACS.R"
+					],
+					[
+						"msacs",
+						"scripts/MSACS/MSACS.R"
+					],
+					[
+						"fix",
+						"scripts/coverage/fix_sgrc_output.R"
+					],
+					[
+						"agg",
+						"scripts/analysis/agg_msacs_segs.R"
+					],
+					[
+						"combine",
+						"scripts/hets/combine_hets.R"
+					],
+					[
+						"set",
+						"scripts/setup.R"
+					],
+					[
+						"spar",
+						"scripts/coverage/SparkGenomeReadCounts.sh"
+					],
+					[
+						"coll",
+						"scripts/hets/CollectAllelicCounts_submit.R"
+					],
+					[
+						"readm",
+						"README.md"
+					],
+					[
+						"read",
+						"scripts/coverage/CombineNormalReadCounts_submit.R"
+					],
+					[
+						"tar",
+						"scripts/genotyping/TargetCoverageSexGenotyper_submit.R"
+					],
+					[
+						"germ",
+						"scripts/coverage/GermlineCNVCaller_submit.R"
+					],
+					[
+						"comb",
+						"scripts/coverage/CombineReadCounts.sh"
+					],
+					[
+						"gem",
+						"scripts/coverage/GermlineCNVCaller.sh"
+					],
+					[
+						"var",
+						"scripts/vars.R"
+					],
+					[
+						"calc",
+						"scripts/coverage/CalculateTargetCoverage_submit.R"
+					],
+					[
+						"rea",
+						"README.md"
+					],
+					[
+						"filt",
+						"scripts/hets/filter_hets.R"
+					],
+					[
+						"mod",
+						"R/models.R"
+					],
+					[
+						"all",
+						"R/export_allelic_seg_summaries.R"
+					],
+					[
+						"alle",
+						"R/compute_grid_posteriors_on_allelic_copyratio.R"
+					],
+					[
+						"exp",
+						"R/exporter.R"
+					],
+					[
+						"fit",
+						"R/fit_tcr.R"
+					],
+					[
+						"load",
+						"R/load_data.R"
+					],
+					[
+						"merge",
+						"R/MS_plot_mergers.R"
+					],
+					[
+						"def",
+						"R/definitions.R"
+					],
+					[
+						"segm",
+						"R/segmenter.R"
+					],
+					[
+						"des",
+						"DESCRIPTION"
+					],
+					[
+						"filter",
+						"scripts/hets/filter_hets.R"
+					],
+					[
+						"git",
+						".gitignore"
+					],
+					[
+						"com",
+						"scripts/common.R"
+					],
+					[
+						"nam",
+						"NAMESPACE"
+					],
+					[
+						"de",
+						"DESCRIPTION"
+					],
+					[
+						"nae",
+						"NAMESPACE"
+					],
+					[
+						"msc",
+						"R/mscbs_wrapper.R"
+					],
+					[
+						"cbs",
+						"R/cbs_wrapper.R"
+					],
+					[
+						"msplot",
+						"R/MS_plot_mergers.R"
+					],
+					[
+						"mspl",
+						"R/MS_Split.R"
+					],
+					[
+						"cmp",
+						"R/modcmp_seg_merge.R"
+					],
+					[
+						"lod",
+						"R/load_data.R"
+					],
+					[
+						"mer",
+						"R/modcmp_seg_merge.R"
+					],
+					[
+						"expo",
+						"R/export_allelic_seg_summaries.R"
+					],
+					[
+						"seg",
+						"R/segmenter.R"
+					],
+					[
+						"ms",
+						"R/MSACS.R"
+					],
+					[
+						"modc",
+						"R/modcmp_seg_merge.R"
+					],
+					[
+						"plot",
+						"R/MS_plot_mergers.R"
+					],
+					[
+						"ex",
+						"R/export_allelic_seg_summaries.R"
+					],
+					[
+						"fitt",
+						"R/fit_tcr.R"
+					],
+					[
+						"mscbs",
+						"R/mscbs_wrapper.R"
+					],
+					[
+						"geno",
+						"R/genome_plots.R"
+					],
+					[
+						"gen",
+						"R/genome_plots.R"
+					],
+					[
+						"name",
+						"NAMESPACE"
+					],
+					[
+						"giti",
+						".gitignore"
+					],
+					[
+						"dens",
+						"R/densities.R"
+					],
+					[
+						"d",
+						"DESCRIPTION"
+					],
+					[
+						"na",
+						"NAMESPACE"
+					],
+					[
+						"mscb",
+						"R/mscbs_wrapper.R"
+					],
+					[
+						"model",
+						"R/models.R"
+					],
+					[
+						"export",
+						"R/export_allelic_seg_summaries.R"
+					],
+					[
+						"defin",
+						"R/definitions.R"
+					],
+					[
+						"msac",
+						"R/MSACS.r"
+					],
+					[
+						"tcr",
+						"R/fit_tcr.r"
+					],
+					[
+						"fitob",
+						"R/fit_object.r"
+					],
+					[
+						"desc",
+						"DESCRIPTION"
+					],
+					[
+						"capseg",
+						"R/capseg_error_model.R"
+					],
+					[
+						"cache",
+						"R/cache_me.r"
+					],
+					[
+						"genom",
+						"R/genome_plots.r"
+					],
+					[
+						"ave",
+						"R/MS_compute_ACS_f_model_average_posteriors.R"
+					],
+					[
+						"grid",
+						"R/compute_grid_posteriors_on_allelic_copyratio.R"
+					],
+					[
+						"mode",
+						"R/models.r"
+					],
+					[
+						"genome",
+						"R/genome_plots.r"
+					],
+					[
+						"geom",
+						"R/genome_plots.r"
+					],
+					[
+						"plotmer",
+						"R/MS_plot_mergers.R"
+					],
+					[
+						"fittc",
+						"R/fit_tcr.r"
+					],
+					[
+						"mo",
+						"R/models.r"
+					],
+					[
+						"ms_fit_joint_seg_f_cond_consensus_snp_gts",
+						"R/MS_fit_joint_seg_f_cond_consensus_SNP_GTs.R"
+					],
+					[
+						"geo",
+						"R/genome_plots.r"
+					],
+					[
+						"joint",
+						"R/MS_fit_joint_seg_f.R"
+					],
+					[
+						"",
+						"R/detect_tiny_clones.R"
+					],
+					[
+						"merg",
+						"R/MS_LRT_seg_merge.R"
+					],
+					[
+						"cach",
+						"R/cache_me.r"
+					],
+					[
+						"msfitj",
+						"R/MS_fit_joint_seg_f.R"
+					],
+					[
+						"fito",
+						"R/fit_object.r"
+					],
+					[
+						"data",
+						"R/load_data.r"
+					],
+					[
+						"mserr",
+						"R/MS_error_model.R"
+					],
+					[
+						"wrap",
+						"R/legacy_wrapper.r"
+					],
+					[
+						"lrt",
+						"R/MS_LRT_seg_merge.R"
+					],
+					[
+						"msall",
+						"R/MS_AllelicCapseg.R"
+					],
+					[
+						"file",
+						"R/file_parsers.R"
+					],
+					[
+						"filep",
+						"R/file_parsers.R"
+					],
+					[
+						"msalli",
+						"R/MS_AllelicCapseg.R"
+					],
+					[
+						"parse",
+						"R/file_parsers.R"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 375.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"",
+						"AllelicCapseg"
+					]
+				],
+				"width": 530.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": false,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 339.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 499,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}

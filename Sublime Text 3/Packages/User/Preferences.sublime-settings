@@ -23,42 +23,50 @@
 		"*.pdf",
 		"*.png",
 		"*.r.swo",
-		"*.rdata",
-		"*.svg",
-		"*.swo",
 		"*.rds",
+		"*.svg",
 		"*.swf",
+		"*.swo",
 		"*.tga",
 		"*.ttf",
 		"*.woff",
-		"*.zip"
+		"*.zip",
+		"/Users/devin/carterlab/Code/gcnv_msacs_workflow/data/**"
 	],
 	"color_scheme": "Packages/User/Monokai Soda.tmTheme",
 	"create_window_at_startup": false,
 	"ensure_newline_at_eof_on_save": true,
+	"file_exclude_patterns":
+	[
+		".Rhistory",
+		".DS_Store",
+		".ruby-version"
+	],
 	"folder_exclude_patterns":
 	[
 		".svn",
 		".git",
+		"*.Rproj",
+		"*.Rproj.user",
 		".history",
 		".hg",
 		"CVS",
 		"log",
 		"vendor/bundle",
 		"tmp",
+		".ipynb_checkpoints",
 		".bundle",
 		"seed_assessments",
 		"spec/vcr",
 		"ssl-cert",
-		".ruby-version",
 		"*.sublime-project"
 	],
-	"font_face": "Input Mono Narrow",
+	"font_face": "FiraCode-Retina",
 	"font_options":
 	[
 		"subpixel_antialias"
 	],
-	"font_size": 12,
+	"font_size": 11,
 	"hide_disclosure_buttons": true,
 	"hot_exit": false,
 	"ignored_packages":
@@ -71,8 +79,19 @@
 		"draw_active"
 	],
 	"margin": 0,
-	"mdpopups.sublime_user_lang_map": null,
-	"mdpopups.use_sublime_highlighter": null,
+	"mdpopups.sublime_user_lang_map":
+	{
+		"s":
+		[
+			[
+				"r"
+			],
+			[
+				"R-Box/syntax/R Extended"
+			]
+		]
+	},
+	"mdpopups.use_sublime_highlighter": true,
 	"overlay_scroll_bars": "false",
 	"preview_on_click": false,
 	"remember_open_files": true,

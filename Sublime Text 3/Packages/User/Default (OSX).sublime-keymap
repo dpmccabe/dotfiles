@@ -5,6 +5,7 @@
             { "key": "selector", "operator": "equal", "operand": "source, markup.raw.block.fenced.markdown" }
         ]
     },
+    { "keys": ["super+shift+c"], "command": "toggle_comment", "args": { "block": false } },
   {
     "keys": ["super+alt+r"],
     "command": "run_macro_file", "args": {"file": "res://Packages/User/rchunk.sublime-macro"}

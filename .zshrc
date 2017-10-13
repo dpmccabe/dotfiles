@@ -1,3 +1,5 @@
+source ~/.iterm2_shell_integration.`basename $SHELL`
+
 # Path to your oh-my-zsh installation.
 export ZSH=/Users/devin/.oh-my-zsh
 
@@ -13,6 +15,8 @@ export PATH="/opt/local/bin:/opt/local/sbin:$PATH"
 alias flushdns='dscacheutil -flushcache;sudo killall -HUP mDNSResponder'
 alias e='/Applications/Sublime\ Text.app/Contents/SharedSupport/bin/subl'
 unsetopt correct_all
+
+eval "$(rbenv init -)"
 
 # Uncomment the following line to use case-sensitive completion.
 # CASE_SENSITIVE="true"
@@ -56,7 +60,7 @@ HYPHEN_INSENSITIVE="true"
 # Custom plugins may be added to ~/.oh-my-zsh/custom/plugins/
 # Example format: plugins=(rails git textmate ruby lighthouse)
 # Add wisely, as too many plugins slow down shell startup.
-plugins=(git)
+plugins=(git zsh-syntax-highlighting)
 
 # User configuration
 
@@ -91,10 +95,18 @@ source $ZSH/oh-my-zsh.sh
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 
 DEFAULT_USER="devin"
-source /usr/local/share/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
 alias e='/Applications/Sublime\ Text.app/Contents/SharedSupport/bin/subl'
 alias cga02='ssh dmccabe@cga02.broadinstitute.org'
 alias kras='ssh dmccabe@cga-kras.broadinstitute.org'
 alias noah='ssh dmccabe@noah.dfci.harvard.edu'
+alias ccpm='ssh dmccabe@ccpm.broadinstitute.org'
 
 bindkey '^U' backward-kill-line
+
+test -e "${HOME}/.iterm2_shell_integration.zsh" && source "${HOME}/.iterm2_shell_integration.zsh"
+
+# The next line updates PATH for the Google Cloud SDK.
+if [ -f '/Users/devin/carterlab/Projects/melanoma/Code/google-cloud-sdk/path.zsh.inc' ]; then source '/Users/devin/carterlab/Projects/melanoma/Code/google-cloud-sdk/path.zsh.inc'; fi
+
+# The next line enables shell command completion for gcloud.
+if [ -f '/Users/devin/carterlab/Projects/melanoma/Code/google-cloud-sdk/completion.zsh.inc' ]; then source '/Users/devin/carterlab/Projects/melanoma/Code/google-cloud-sdk/completion.zsh.inc'; fi

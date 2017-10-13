@@ -1,0 +1,14 @@
+<snippet>
+  <content><![CDATA[
+<<libraries, include = F>>=
+sapply(unlist(strsplit("xtable ggplot2 GGally gridExtra knitr dplyr", " ")), function(pkg) {
+  if (!is.element(pkg, installed.packages()[,1])) install.packages(pkg, dep = T)
+  library(pkg, character.only = T, quietly = T)
+})
+@
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>rnw</tabTrigger>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <!-- <scope>source.python</scope> -->
+</snippet>

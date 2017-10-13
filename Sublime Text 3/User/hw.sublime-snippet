@@ -1,0 +1,24 @@
+<snippet>
+  <content><![CDATA[
+\documentclass{article}
+\usepackage{/Users/devin/Documents/tex/hwtemplate}
+
+\def\title{PHP$1 - HW $2}
+\def\date{2016-$3}
+\def\author{Devin McCabe}
+
+\begin{document}
+\hwtitle
+
+\begin{enumerate}
+  \item[$4]
+\end{enumerate}
+
+\end{document}
+
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>hw</tabTrigger>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <!-- <scope>source.python</scope> -->
+</snippet>

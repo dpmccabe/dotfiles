@@ -1,0 +1,1 @@
+{"url": "https://github.com/randy3k/SendCode", "dependencies": [], "version": "0.3.9", "platforms": ["*"], "description": "Send code and text to macOS and Linux Terminals, iTerm, ConEmu, Cmder, Tmux, TerminalView; R (RStudio), Julia, IPython.", "sublime_text": ">=3000"}

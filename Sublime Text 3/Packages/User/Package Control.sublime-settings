@@ -14,6 +14,7 @@
 		"Dracula Color Scheme",
 		"ExportHtml",
 		"GitGutter",
+		"Google Spell Check",
 		"ImprovedMacros",
 		"Inc-Dec-Value",
 		"InsertDate",
@@ -28,9 +29,10 @@
 		"R-Box",
 		"Ruby Hash Converter",
 		"Ruby Slim",
-		"SendTextPlus",
+		"SendCode",
 		"SideBarEnhancements",
 		"Solarized Color Scheme",
+		"ST3roxygen",
 		"SublimeREPL",
 		"Syntax Highlighting for Sass",
 		"Theme - SoDaReloaded",
@@ -38,6 +40,7 @@
 	],
 	"repositories":
 	[
-		"https://github.com/skuroda/ImprovedMacros"
+		"https://github.com/skuroda/ImprovedMacros",
+		"https://github.com/explodecomputer/ST3roxygen"
 	]
 }

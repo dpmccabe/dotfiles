@@ -1,0 +1,10 @@
+# [PackageDev] target_format: plist, ext: tmLanguage
+---
+name: Procfile
+scopeName: source.procfile
+fileTypes: [Procfile]
+uuid: 4d66021e-d63c-4492-8cd2-5d54d8c382fa
+
+patterns:
+- 
+...
